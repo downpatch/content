@@ -30,7 +30,7 @@ Each Halo title inside MCC has its own categories, rules, and timing expectation
 
 ## Where the rules and leaderboards live
 
-Halo speedrunning uses **[haloruns.com](haloruns.com)** for:
+Halo speedrunning uses **[haloruns.com](https://haloruns.com)** for:
 - rules
 - category definitions
 - timing requirements
