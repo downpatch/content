@@ -4,6 +4,10 @@ nav_title: Template Game!
 description: Getting started with speedrunning Template Game!, including timing method, LiveSplit setup, downpatching requirements, and allowed versions.
 game: Template Game!
 series: Template Series
+
+og_image: og.webp
+square_image: square.webp
+
 platforms:
   - PC
   - Console
