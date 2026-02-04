@@ -21,9 +21,9 @@ jobs:
         run: |
           set -euo pipefail
           git submodule update --init --recursive
-          git -C wwwroot/content fetch origin main
-          git -C wwwroot/content checkout -q main
-          git submodule update --remote --merge wwwroot/content
+          git -C wwwroot/Content fetch origin main
+          git -C wwwroot/Content checkout -q main
+          git submodule update --remote --merge wwwroot/Content
 
       - name: Commit and push if changed
         run: |
@@ -36,6 +36,6 @@ jobs:
           git config user.name "downpatch-bot"
           git config user.email "downpatch-bot@users.noreply.github.com"
 
-          git add wwwroot/content
+          git add wwwroot/Content
           git commit -m "chore(content): bump submodule"
           git push
