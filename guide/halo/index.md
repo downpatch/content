@@ -12,6 +12,7 @@ platforms:
   - PC
   - Console
 leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 order: 10
 timing_method: Varies by game
 downpatch: sometimes
