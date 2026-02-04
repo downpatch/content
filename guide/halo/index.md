@@ -1,6 +1,6 @@
 ---
 title: Halo: The Master Chief Collection
-nav_title: Halo MCC
+nav_title: Halo: The Master Chief Collection
 description: Getting started with speedrunning Halo: The Master Chief Collection. Explains how Halo speedrunning is organised, where the rules live, and how the individual game pages fit together.
 game: Halo: The Master Chief Collection
 series: Halo
