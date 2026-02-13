@@ -10,14 +10,15 @@ leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---
 
-# Halo: The Master Chief Collection
-
-MCC is one launcher, but speedrunning is organised per game. Use the links below to jump straight to the game you want.
-
 ## Official rules and leaderboards
 - Rules and categories live on https://haloruns.com/rules  
 - If anything here disagrees with Haloruns, follow Haloruns.
 
+## Links
+- [Full game tutorials](fullgametutorials)
+- [Segmented Projects](segmentedprojects)
+- [Speedrun Tools and Helpful Links](tools)
+- [Recent world records](https://haloruns.com/records/recent)
 ## Choose a game
 - [Halo: Combat Evolved](haloce/)
 - [Halo 2](halo2/)
@@ -26,12 +27,17 @@ MCC is one launcher, but speedrunning is organised per game. Use the links below
 - [Halo: Reach](haloreach/)
 - [Halo 4](halo4/)
 
-## Before you start
-These will become separate standard pages (so the game pages stay short):
-- LiveSplit setup (timer, layout, splits)
-- Capture/recording basics (what to record, audio, proof)
-- Timing method overview (RTA / IGT / Theatre, per-game differences)
-- Versions and downpatching (only matters for some categories)
+### Other Games
+- [Halo Wars](halowars/)
+- [Halo Wars 2](halowars2/)
+- [Halo: Spartan Assault](spartanassault/)
+- [Halo: Spartan Strike](spartanstrike/)
+- [Halo 4: Spartan Ops](halo4spartanops/)
 
-## Downpatch tool (PC)
-If your category needs an older version, use: https://halo.downpatch.com
+
+## Miscellaneous
+- [History of Halo Speedrunning](History)
+- [Past Relays, Marathons, and Events](Events)
+- [Speedrunning Glossary](Glossary)
+- [API Documentation](API)
+- [ Wiki To-do List](To_do)
