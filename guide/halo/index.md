@@ -20,12 +20,12 @@ discord: https://haloruns.com/discord
 - [Speedrun Tools and Helpful Links](tools)
 - [Recent world records](https://haloruns.com/records/recent)
 ## Choose a game
-- [Halo: Combat Evolved](haloce/)
-- [Halo 2](halo2/)
-- [Halo 3](halo3/)
-- [Halo 3: ODST](halo3odst/)
-- [Halo: Reach](haloreach/)
-- [Halo 4](halo4/)
+- [Halo: Combat Evolved](./haloce/)
+- [Halo 2](./halo2/)
+- [Halo 3](./halo3/)
+- [Halo 3: ODST](./halo3odst/)
+- [Halo: Reach](./haloreach/)
+- [Halo 4](./halo4/)
 
 ### Other Games
 - [Halo Wars](halowars/)
