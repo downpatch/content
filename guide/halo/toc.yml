@@ -6,15 +6,15 @@
 
 - name: Games
   items:
-    - name: Halo: Combat Evolved
+    - name: "Halo: Combat Evolved"
       href: haloce/index.md
-    - name: Halo 2
+    - name: "Halo 2"
       href: halo2/index.md
-    - name: Halo 3
+    - name: "Halo 3"
       href: halo3/index.md
     - name: "Halo 3: ODST"
       href: halo3odst/index.md
-    - name: Halo: Reach
+    - name: "Halo: Reach"
       href: haloreach/index.md
-    - name: Halo 4
+    - name: "Halo 4"
       href: halo4/index.md
