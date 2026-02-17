@@ -1,0 +1,29 @@
+- name: Overview
+  href: index.md
+
+- name: Levels
+  items:
+    - name: "Osiris"
+      href: levels/osiris/index.md
+    - name: "Blue Team"
+      href: levels/blueteam/index.md
+    - name: "Glassed"
+      href: levels/glassed/index.md
+    - name: "Unconfirmed"
+      href: levels/unconfirmed/index.md
+    - name: "Evacuation"
+      href: levels/evacuation/index.md
+    - name: "Reunion"
+      href: levels/reunion/index.md
+    - name: "Swords of Sanghelios"
+      href: levels/swordsofsanghelios/index.md
+    - name: "Enemy Lines"
+      href: levels/enemylines/index.md
+    - name: "Battle of Sunaion"
+      href: levels/battleofsunaion/index.md
+    - name: "Genesis"
+      href: levels/genesis/index.md
+    - name: "The Breaking"
+      href: levels/thebreaking/index.md
+    - name: "Guardians"
+      href: levels/guardians/index.md

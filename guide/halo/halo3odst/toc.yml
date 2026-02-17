@@ -1,0 +1,37 @@
+- name: Overview
+  href: index.md
+
+- name: Levels
+  items:
+    - name: "Prepare to Drop"
+      href: levels/preparetodrop/index.md
+    - name: "Mombasa Streets"
+      href: levels/mombasastreets/index.md
+    - name: "Tayari Plaza"
+      href: levels/tayariplaza/index.md
+    - name: "Mombasa Streets 1 Drone Optic"
+      href: levels/mombasastreets1droneoptic/index.md
+    - name: "Uplift Reserve"
+      href: levels/upliftreserve/index.md
+    - name: "Mombasa Streets 2 Gauss Turret"
+      href: levels/mombasastreets2gaussturret/index.md
+    - name: "ONI Alpha Site"
+      href: levels/onialphasite/index.md
+    - name: "Mombasa Streets 3 Sniper Rifle"
+      href: levels/mombasastreets3sniperrifle/index.md
+    - name: "Kizingo Boulevard"
+      href: levels/kizingoboulevard/index.md
+    - name: "Mombasa Streets 4 Remote Detonator"
+      href: levels/mombasastreets4remotedetonator/index.md
+    - name: "NMPD HQ"
+      href: levels/nmpdhq/index.md
+    - name: "Mombasa Streets 5 Biofoam Canister"
+      href: levels/mombasastreets5biofoamcanister/index.md
+    - name: "Kikowani Station"
+      href: levels/kikowanistation/index.md
+    - name: "Mombasa Streets 6 Data Hive"
+      href: levels/mombasastreets6datahive/index.md
+    - name: "Data Hive"
+      href: levels/datahive/index.md
+    - name: "Coastal Highway"
+      href: levels/coastalhighway/index.md

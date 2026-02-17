@@ -4,22 +4,22 @@
 - name: Levels
   items:
     - name: "Winter Contingency"
-      href: levels/wc/index.md
-    - name: "ONI: Sword Base"
-      href: levels/oni_sword_base/index.md
+      href: levels/wintercontingency/index.md
+    - name: "ONI Sword Base"
+      href: levels/oniswordbase/index.md
     - name: "Nightfall"
       href: levels/nightfall/index.md
     - name: "Tip of the Spear"
-      href: levels/tip_of_the_spear/index.md
+      href: levels/tipofthespear/index.md
     - name: "Long Night of Solace"
-      href: levels/long_night_of_solace/index.md
+      href: levels/longnightofsolace/index.md
     - name: "Exodus"
       href: levels/exodus/index.md
     - name: "New Alexandria"
-      href: levels/new_alexandria/index.md
+      href: levels/newalexandria/index.md
     - name: "The Package"
-      href: levels/the_package/index.md
+      href: levels/thepackage/index.md
     - name: "The Pillar of Autumn"
-      href: levels/the_pillar_of_autumn/index.md
+      href: levels/thepillarofautumn/index.md
     - name: "Lone Wolf"
-      href: levels/lone_wolf/index.md
+      href: levels/lonewolf/index.md
