@@ -1,0 +1,4 @@
+---
+title: Lone Wolf
+description: 
+---

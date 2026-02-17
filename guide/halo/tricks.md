@@ -1,0 +1,4 @@
+---
+title: Global Tricks
+description: 
+---
