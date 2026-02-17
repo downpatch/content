@@ -10,7 +10,7 @@ leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---
 
-![HaloRuns Logo](HRLogoTransparent.png)
+![HaloRuns Logo](/content/guide/halo/HRLogoTransparent.png)
 
 > Checkout our HaloRuns Discord Server:  
 > https://haloruns.com/discord
