@@ -1,6 +1,8 @@
 ---
 title: Speedrun Tools and Helpful Links
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Halo speedrunning tools greatly enhance practice by enabling features like trigger volume viewers, checkpoint control, and AI freezing. These tools let runners efficiently practice difficult sections, refine strategies, and improve consistency, speeding up overall skill development and time improvement.

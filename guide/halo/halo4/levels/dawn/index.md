@@ -1,6 +1,8 @@
 ---
 title: Dawn
 description: 
+leaderboard: https://haloruns.com/leaderboards/h4/solo/dawn/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Dawn** is the second campaign level of Halo 4, and the first one with actual gameplay. After years of cryo-sleep, John-117 awakens to fight the resurgent Covenant in the wreckage of the UNSC Forward Unto Dawn. See [Halopedia](http://www.halopedia.org/Dawn_%28level%29) for general information.

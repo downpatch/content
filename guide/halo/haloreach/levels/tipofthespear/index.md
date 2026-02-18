@@ -1,6 +1,8 @@
 ---
 title: Tip of the Spear
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Tip of the Spear is the fourth playable level in [Halo: Reach](../../index.md). See [Halopedia](http://www.halopedia.org/Tip_of_the_Spear) for general information.

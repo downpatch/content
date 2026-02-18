@@ -1,6 +1,8 @@
 ---
 title: Speedrunning Glossary
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 This page serves as a hub for subpages that go deeper into topics which would otherwise clutter the IL (Individual Level) speedrun pages. These include, but are not limited to, detailed trick explanations, vehicle analyses, and weapon breakdowns.

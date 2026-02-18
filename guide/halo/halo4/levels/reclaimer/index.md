@@ -1,6 +1,8 @@
 ---
 title: Reclaimer
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Reclaimer** is the fifth level in [Halo 4](../../index.md). See [Halopedia](http://www.halopedia.org/Reclaimer_%28level%29) for general information.

@@ -1,6 +1,8 @@
 ---
 title: The Ark
 description: 
+leaderboard: https://haloruns.com/records?lb=0306
+discord: https://haloruns.com/discord
 ---
 
 This level has two video tutorials on Legendary. [This Basic Tutorial by Paradoxxic](https://youtu.be/6TQNZ6bY5AI) which goes over easier strats for completing the level, and [This advanced tutorial by Sorix](https://youtu.be/J1YwkGA-9-Q)

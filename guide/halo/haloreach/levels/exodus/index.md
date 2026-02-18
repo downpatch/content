@@ -1,6 +1,8 @@
 ---
 title: Exodus
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Exodus is the sixth playable level in [Halo: Reach](../../index.md). See [Halopedia](http://www.halopedia.org/Exodus_%28level%29) for general information.

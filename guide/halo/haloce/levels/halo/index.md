@@ -1,6 +1,8 @@
 ---
 title: Halo
 description: 
+leaderboard: http://www.haloruns.com/records?lb=102
+discord: https://haloruns.com/discord
 ---
 
 **Halo** is the second campaign level in [Halo: Combat Evolved](../../index.md). See \[<http://halopedia.org/Halo_(Halo:_Combat_Evolved_level>) Halopedia\] for general information.

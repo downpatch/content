@@ -1,6 +1,8 @@
 ---
 title: Floodgate
 description: 
+leaderboard: https://haloruns.com/records?lb=0305
+discord: https://haloruns.com/discord
 ---
 
 **Floodgate** is the fifth playable level in [Halo 3](../../index.md). See [Floodgate (Halo Nation)](http://halo.wikia.com/wiki/Floodgate) for general information. Due to the lack of danger from enemies, there will be only one tutorial for this level, though difficulty-specific tactics and notable details will still be included.

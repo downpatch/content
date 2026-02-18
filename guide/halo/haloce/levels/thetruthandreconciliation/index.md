@@ -1,6 +1,8 @@
 ---
 title: The Truth and Reconciliation
 description: 
+leaderboard: http://www.haloruns.com/records?lb=103
+discord: https://haloruns.com/discord
 ---
 
 **The Truth and Reconciliation** is the third campaign level in [Halo: Combat Evolved](../../index.md). See [Halopedia](http://halopedia.org/The_Truth_and_Reconciliation) for general information.

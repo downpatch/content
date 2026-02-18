@@ -1,6 +1,8 @@
 ---
 title: Oracle
 description: 
+leaderboard: https://haloruns.com/leaderboards/h2a/solo/oracle/Legendary
+discord: https://haloruns.com/discord
 ---
 
 **Oracle** is the sixth playable level in [Halo 2](../../index.md). See Oracle (level) for general information.

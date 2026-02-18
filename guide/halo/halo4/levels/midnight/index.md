@@ -1,6 +1,8 @@
 ---
 title: Midnight
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Midnight** is the eighth level in [Halo 4](../../index.md). See [Halopedia](http://www.halopedia.org/Midnight) for general information.

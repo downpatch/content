@@ -1,6 +1,8 @@
 ---
 title: The Package
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 The Package is the eighth playable level in [Halo: Reach](../../index.md). See [Halopedia](http://www.halopedia.org/The_Package_%28level%29) for general information.

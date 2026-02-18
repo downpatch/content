@@ -1,6 +1,8 @@
 ---
 title: Infinity
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Infinity** is the fourth level in [Halo 4](../../index.md). See [Halopedia](http://www.halopedia.org/Infinity_%28Halo_4_level%29) for general information.

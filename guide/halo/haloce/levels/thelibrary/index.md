@@ -1,6 +1,8 @@
 ---
 title: The Library
 description: 
+leaderboard: http://www.haloruns.com/records?lb=107
+discord: https://haloruns.com/discord
 ---
 
 **The Library** is the seventh level in [Halo: Combat Evolved](../../index.md). See [Halopedia](http://halopedia.org/The_Library) for general information.

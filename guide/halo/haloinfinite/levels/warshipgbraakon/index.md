@@ -1,6 +1,8 @@
 ---
 title: Warship Gbraakon
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Warship%20Gbraakon/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Warship Gbrakkon** is the first playable level in [Halo Infinite](../../index.md). See [Warship Gbrakkon (Halopedia)](https://www.halopedia.org/Warship_Gbraakon) for general information.

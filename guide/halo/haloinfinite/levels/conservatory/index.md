@@ -1,6 +1,8 @@
 ---
 title: Conservatory
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Conservatory/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Conservatory** is the seventh playable level in [Halo Infinite](../../index.md). See [Conservatory (Halopedia)](https://www.halopedia.org/Conservatory) for general information.

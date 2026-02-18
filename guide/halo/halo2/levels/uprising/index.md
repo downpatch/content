@@ -1,6 +1,8 @@
 ---
 title: Uprising
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Uprising** is the twelfth playable level in [Halo 2](../../index.md). See Uprising (level) for general information.

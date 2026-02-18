@@ -1,6 +1,8 @@
 ---
 title: Nexus
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Nexus/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Nexus** is the eleventh playable level in [Halo Infinite](../../index.md). See [Nexus (Halopedia)](https://www.halopedia.org/Nexus) for general information.

@@ -1,6 +1,8 @@
 ---
 title: Foundation
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Foundation/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Foundation** is the second playable level in [Halo Infinite](../../index.md). See [Foundation (Halopedia)](https://www.halopedia.org/Foundation_(Halo_Infinite)) for general information.

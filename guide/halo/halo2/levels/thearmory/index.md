@@ -1,6 +1,8 @@
 ---
 title: The Armory
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **The Armory** is the first playable level in [Halo 2](../../index.md). See [Halopedia](http://halopedia.org/The_Armory) for general information. {{#Widget:YouTube\|id=ihImaJ-lz8E\|right\|caption=A very good Armory tutorial}} For full-game Halo 2 runs, RTA timing starts at the first frame of fade-in. Selecting "Heretic" in the level select menu is optional, but customary.

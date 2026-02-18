@@ -1,6 +1,8 @@
 ---
 title: NMPD HQ
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 NMPD HQ is the fifth flashback level in [Halo 3: ODST](../../index.md). See [Halopedia](http://www.halopedia.org/NMPD_HQ_%28level%29) for general information.

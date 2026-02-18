@@ -1,6 +1,8 @@
 ---
 title: The Covenant
 description: 
+leaderboard: https://haloruns.com/records?lb=0307
+discord: https://haloruns.com/discord
 ---
 
 **The Covenant** is the seventh playable level in [Halo 3](../../index.md). See [The Covenant (Halo Nation)](http://halo.wikia.com/wiki/The_Covenant_(level)) for general information. This level has a [Video tutorial for Legendary](https://youtu.be/24177lT2AIY)

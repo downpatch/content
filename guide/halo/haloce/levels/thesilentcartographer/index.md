@@ -1,6 +1,8 @@
 ---
 title: The Silent Cartographer
 description: 
+leaderboard: http://www.haloruns.com/records?lb=104
+discord: https://haloruns.com/discord
 ---
 
 **The Silent Cartographer** (often abbreviated **SC**) is the fourth campaign level in [Halo: Combat Evolved](../../index.md). See [Halopedia](http://halo.wikia.com/wiki/The_Silent_Cartographer) for general information.

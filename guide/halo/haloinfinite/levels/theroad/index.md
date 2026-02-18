@@ -1,6 +1,8 @@
 ---
 title: The Road
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/The%20Road/Easy
+discord: https://haloruns.com/discord
 ---
 
 **The Road** is the fourteenth playable level in [Halo Infinite](../../index.md). See [The Road (Halopedia)](https://www.halopedia.org/The_Road_(level)) for general information.

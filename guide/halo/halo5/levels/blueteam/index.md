@@ -1,6 +1,8 @@
 ---
 title: Blue Team
 description: 
+leaderboard: http://haloruns.com/records?lb=0802
+discord: https://haloruns.com/discord
 ---
 
 **Blue Team** is the 2nd level in [Halo 5](../../index.md). See \[<http://www.halopedia.org/Halo_5:_Guardians>) Halopedia\] for general information.

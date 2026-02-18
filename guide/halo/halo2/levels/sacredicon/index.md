@@ -1,6 +1,8 @@
 ---
 title: Sacred Icon
 description: 
+leaderboard: https://haloruns.com/leaderboards/h2a/solo/si/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Sacred Icon** is the ninth playable level in [Halo 2](../../index.md). See Sacred Icon (level) for general information.

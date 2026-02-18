@@ -1,6 +1,8 @@
 ---
 title: Regret
 description: 
+leaderboard: https://haloruns.com/leaderboards/h2a/solo/regret/Legendary
+discord: https://haloruns.com/discord
 ---
 
 **Regret** is the eighth playable level in [Halo 2](../../index.md). See Regret (level) for general information.

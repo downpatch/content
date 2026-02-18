@@ -1,6 +1,8 @@
 ---
 title: Evacuation
 description: 
+leaderboard: http://haloruns.com/records?lb=0805
+discord: https://haloruns.com/discord
 ---
 
 **Evacuation** is the 6th level in [Halo 5](../../index.md). See \[<http://www.halopedia.org/Halo_5:_Guardians>) Halopedia\] for general information.

@@ -1,6 +1,8 @@
 ---
 title: The Storm
 description: 
+leaderboard: https://haloruns.com/records?lb=0304
+discord: https://haloruns.com/discord
 ---
 
 **The Storm** is the fourth playable level in [Halo 3](../../index.md). See [The Storm (Halo Nation)](http://halo.wikia.com/wiki/The_Storm_(level)) for general information.

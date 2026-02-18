@@ -1,6 +1,8 @@
 ---
 title: The Command Spire
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/The%20Command%20Spire/Easy
+discord: https://haloruns.com/discord
 ---
 
 **The Command Spire** is the twelfth playable level in [Halo Infinite](../../index.md). See [The Command Spire (Halopedia)](https://www.halopedia.org/The_Command_Spire) for general information.

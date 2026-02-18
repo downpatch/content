@@ -1,6 +1,8 @@
 ---
 title: The Sequence
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/The%20Sequence/Easyy
+discord: https://haloruns.com/discord
 ---
 
 **The Sequence** is the tenth playable level in [Halo Infinite](../../index.md). See [The Sequence (Halopedia)](https://www.halopedia.org/The_Sequence) for general information.

@@ -1,6 +1,8 @@
 ---
 title: The Great Journey
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **The Great Journey** is the fourteenth playable level in [Halo 2](../../index.md). See The Great Journey (level) for general information.

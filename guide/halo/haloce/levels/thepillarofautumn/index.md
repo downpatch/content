@@ -1,6 +1,8 @@
 ---
 title: The Pillar of Autumn
 description: 
+leaderboard: http://www.haloruns.com/records?lb=101
+discord: https://haloruns.com/discord
 ---
 
 **The Pillar of Autumn** is the first level in [Halo: Combat Evolved](../../index.md). See \[<http://halopedia.org/The_Pillar_of_Autumn_(Halo:_Combat_Evolved_level>) Halopedia\] for general information.

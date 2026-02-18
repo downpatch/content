@@ -1,6 +1,8 @@
 ---
 title: High Charity
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **High Charity** is the thirteenth playable level in [Halo 2](../../index.md). See [High Charity](https://www.halopedia.org/High_Charity) for general information.

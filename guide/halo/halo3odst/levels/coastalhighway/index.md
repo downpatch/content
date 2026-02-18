@@ -1,6 +1,8 @@
 ---
 title: Coastal Highway
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Coastal Highway is the last level in [Halo 3: ODST](../../index.md). See [Halopedia](http://www.halopedia.org/Coastal_Highway) for general information.

@@ -1,6 +1,8 @@
 ---
 title: Wiki To-do List
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Here's some of the things that need to be done on the wiki, all the help is appreciated! Please make a note of what you have done.  

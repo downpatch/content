@@ -1,6 +1,8 @@
 ---
 title: Keyes
 description: 
+leaderboard: http://www.haloruns.com/records?lb=109
+discord: https://haloruns.com/discord
 ---
 
 **Keyes** is the ninth campaign level in [Halo: Combat Evolved](../../index.md). See [Halopedia](http://www.halopedia.org/Keyes) for general information.

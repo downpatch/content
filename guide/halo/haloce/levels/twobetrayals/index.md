@@ -1,6 +1,8 @@
 ---
 title: Two Betrayals
 description: 
+leaderboard: http://www.haloruns.com/records?lb=108
+discord: https://haloruns.com/discord
 ---
 
 **Two Betrayals** (often abbreviated **TB**) is the eighth campaign level in [Halo: Combat Evolved](../../index.md). See [Halopedia](http://www.halopedia.org/Two_Betrayals) for general information.

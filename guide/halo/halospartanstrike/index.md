@@ -1,6 +1,8 @@
 ---
 title: Halo Spartan Strike
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Work in Progress

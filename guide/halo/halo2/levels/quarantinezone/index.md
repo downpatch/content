@@ -1,6 +1,8 @@
 ---
 title: Quarantine Zone
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Quarantine Zone** (often abbreviated **QZ**) is the tenth playable level in [Halo 2](../../index.md). See Quarantine Zone (level) for general information.

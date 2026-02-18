@@ -1,6 +1,8 @@
 ---
 title: Lone Wolf
 description: 
+leaderboard: http://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Lone Wolf** is the final playable level in Halo: Reach and is considered a post-credits mission, following the Thank You message from Bungie. Due to its placement after the conclusion of the main story, it is not considered part of the game's official completion time for speedrun purposes. As such, it has no individual level entry (IL) on [HaloRuns](http://haloruns.com).

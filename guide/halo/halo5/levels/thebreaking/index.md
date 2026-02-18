@@ -1,6 +1,8 @@
 ---
 title: The Breaking
 description: 
+leaderboard: http://haloruns.com/records?lb=0811
+discord: https://haloruns.com/discord
 ---
 
 **The Breaking** is the 14th level in [Halo 5](../../index.md). See \[<http://www.halopedia.org/Halo_5:_Guardians>) Halopedia\] for general information.

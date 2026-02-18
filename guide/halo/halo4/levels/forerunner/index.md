@@ -1,6 +1,8 @@
 ---
 title: Forerunner
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Forerunner** is the third level in [Halo 4](../../index.md). See [Halopedia](http://www.halopedia.org/Forerunner_%28level%29) for general information.

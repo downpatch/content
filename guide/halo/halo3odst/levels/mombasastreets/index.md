@@ -1,6 +1,8 @@
 ---
 title: Mombasa Streets
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Mombasa Streets is the hub world in [Halo 3: ODST](../../index.md). See [Halopedia](http://www.halopedia.org/Mombasa_Streets) for general information.

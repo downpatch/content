@@ -1,6 +1,8 @@
 ---
 title: Winter Contingency
 description: 
+leaderboard: https://haloruns.com/leaderboards/reach/solo/wc/Easy
+discord: https://haloruns.com/discord
 ---
 
 Winter Contingency is the first playable level in [Halo: Reach](../../index.md). See [Halopedia](http://halopedia.org/Winter_Contingency_(level)) for general information, the routes and strats are the same for both Easy and Legendary, as well as co-op.

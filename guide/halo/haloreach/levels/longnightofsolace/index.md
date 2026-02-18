@@ -1,6 +1,8 @@
 ---
 title: Long Night of Solace
 description: 
+leaderboard: http://haloruns.com/records?lb=505
+discord: https://haloruns.com/discord
 ---
 
 Long Night of Solace is the fifth playable level in [Halo: Reach](../../index.md). See [Halopedia](http://www.halopedia.org/Long_Night_of_Solace_%28level%29) for general information.  

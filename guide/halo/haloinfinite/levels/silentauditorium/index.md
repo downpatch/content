@@ -1,6 +1,8 @@
 ---
 title: Silent Auditorium
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Silent%20Auditorium/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Silent Auditorium** is the sixteenth and final playable level in [Halo Infinite](../../index.md). See [Silent Auditorium (Halopedia)](https://www.halopedia.org/Silent_Auditorium) for general information.

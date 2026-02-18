@@ -1,6 +1,8 @@
 ---
 title: Segmented Projects
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Here are some incredible community projects that demonstrate the absolute limits of what's possible in each of the Halo games.

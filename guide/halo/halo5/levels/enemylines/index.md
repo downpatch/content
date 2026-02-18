@@ -1,6 +1,8 @@
 ---
 title: Enemy Lines
 description: 
+leaderboard: http://haloruns.com/records?lb=0808
+discord: https://haloruns.com/discord
 ---
 
 **Enemy Lines** is the 10th level in [Halo 5](../../index.md). See \[<http://www.halopedia.org/Halo_5:_Guardians>) Halopedia\] for general information.

@@ -1,6 +1,8 @@
 ---
 title: Outpost Tremonius
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Outpost%20Tremonius/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Outpost Tremonius** is the third playable level in [Halo Infinite](../../index.md). See [Outpost Tremonius (Halopedia)](https://www.halopedia.org/Outpost_Tremonius) for general information.

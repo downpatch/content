@@ -1,6 +1,8 @@
 ---
 title: Spire
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Spire/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Spire** is the eighth playable level in [Halo Infinite](../../index.md). See [Spire (Halopedia)](https://www.halopedia.org/Spire_(Halo_Infinite_level)) for general information.

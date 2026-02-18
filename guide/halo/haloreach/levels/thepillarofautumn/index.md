@@ -1,6 +1,8 @@
 ---
 title: The Pillar of Autumn
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 ## Pillar of Autumn - Halo: Reach

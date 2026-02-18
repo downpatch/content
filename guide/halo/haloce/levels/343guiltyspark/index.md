@@ -1,6 +1,8 @@
 ---
 title: 343 Guilty Spark
 description: 
+leaderboard: http://www.haloruns.com/records?lb=106
+discord: https://haloruns.com/discord
 ---
 
 **343 Guilty Spark** (often abbreviated **343GS**) is the fourth campaign level in [Halo: Combat Evolved](../../index.md). See [Halopedia](http://www.halopedia.org/343_Guilty_Spark_%28level%29) for general information.

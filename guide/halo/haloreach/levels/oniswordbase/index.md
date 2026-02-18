@@ -1,6 +1,8 @@
 ---
 title: ONI Sword Base
 description: 
+leaderboard: https://haloruns.com/leaderboards/reach/solo/oni/Easy
+discord: https://haloruns.com/discord
 ---
 
 ONI: Sword Base is the second playable level in [Halo: Reach](../../index.md). See [Halopedia](http://www.halopedia.org/ONI:_Sword_Base) for general information. There are different strats between Easy, Legendary, and Co-op, and they will be covered in this page.

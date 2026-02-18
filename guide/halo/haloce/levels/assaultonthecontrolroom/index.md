@@ -1,6 +1,8 @@
 ---
 title: Assault on the Control Room
 description: 
+leaderboard: http://www.haloruns.com/records?lb=105
+discord: https://haloruns.com/discord
 ---
 
 **Assault on the Control Room** (often abbreviated **AotCR**) is the fifth campaign level in [Halo: Combat Evolved](../../index.md). See [Halopedia](http://halopedia.org/Assault_on_the_Control_Room_%28level%29) for general information.

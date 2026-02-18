@@ -1,6 +1,8 @@
 ---
 title: The Maw
 description: 
+leaderboard: http://www.haloruns.com/records?lb=110
+discord: https://haloruns.com/discord
 ---
 
 **The Maw** is the tenth and final level in [Halo: Combat Evolved](../../index.md). See [Halopedia](http://www.halopedia.org/The_Maw) for general information.

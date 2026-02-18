@@ -1,6 +1,8 @@
 ---
 title: Outskirts
 description: 
+leaderboard: https://haloruns.com/leaderboards/h2a/solo/os/Legendary
+discord: https://haloruns.com/discord
 ---
 
 **Outskirts** is the third playable level in [Halo 2](../../index.md). See [Halopedia](http://www.halopedia.org/Outskirts) for general information. The strategies vary slightly between Easy and Legendary.

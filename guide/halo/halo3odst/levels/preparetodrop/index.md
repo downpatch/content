@@ -1,6 +1,8 @@
 ---
 title: Prepare to Drop
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Prepare to Drop is the opening level in [Halo 3: ODST](../../index.md). See [Halopedia](http://www.halopedia.org/Prepare_to_Drop) for general information.

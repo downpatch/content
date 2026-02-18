@@ -1,6 +1,8 @@
 ---
 title: Pelican Down
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Pelican%20Down/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Pelican Down** is the ninth playable level in [Halo Infinite](../../index.md). See [Pelican Down (Halopedia)](https://www.halopedia.org/Pelican_Down_(Halo_Infinite_level)) for general information.

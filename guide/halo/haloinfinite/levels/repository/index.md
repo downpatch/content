@@ -1,6 +1,8 @@
 ---
 title: Repository
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Repository/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Repository** is the thirteenth playable level in [Halo Infinite](../../index.md). See [Repository (Halopedia)](https://www.halopedia.org/Repository_(Halo_Infinite_level)) for general information.

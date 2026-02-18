@@ -1,6 +1,8 @@
 ---
 title: The Arbiter
 description: 
+leaderboard: https://haloruns.com/leaderboards/h2a/solo/arbiter/Legendary
+discord: https://haloruns.com/discord
 ---
 
 **The Arbiter** is the fifth playable level in [Halo 2](../../index.md). See The Arbiter (level) for general information.

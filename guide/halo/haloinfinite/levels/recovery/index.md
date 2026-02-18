@@ -1,6 +1,8 @@
 ---
 title: Recovery
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Recovery/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Recovery** is the fourth playable level in [Halo Infinite](../../index.md). See [Recovery (Halopedia)](https://www.halopedia.org/Recovery) for general information.

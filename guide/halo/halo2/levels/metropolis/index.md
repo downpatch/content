@@ -1,6 +1,8 @@
 ---
 title: Metropolis
 description: 
+leaderboard: https://haloruns.com/leaderboards/h2a/solo/metro
+discord: https://haloruns.com/discord
 ---
 
 **Metropolis** is the fourth playable level in [Halo 2](../../index.md). See Metropolis (level) for general information.

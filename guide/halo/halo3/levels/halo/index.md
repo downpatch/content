@@ -1,6 +1,8 @@
 ---
 title: Halo
 description: 
+leaderboard: https://haloruns.com/records?lb=0309
+discord: https://haloruns.com/discord
 ---
 
 **Halo** is the ninth playable level in [Halo 3](../../index.md). See [Halo (Halo 3 level) (Halo Nation)](http://halo.wikia.com/wiki/Halo_(Halo_3_level)) for general information.

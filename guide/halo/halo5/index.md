@@ -1,6 +1,8 @@
 ---
 title: Halo 5 Guardians
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Work in Progress.

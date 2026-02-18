@@ -1,6 +1,8 @@
 ---
 title: New Alexandria
 description: 
+leaderboard: http://haloruns.com/records?lb=507
+discord: https://haloruns.com/discord
 ---
 
 New Alexandria is the seventh playable level in [Halo: Reach](../../index.md). See [Halopedia](http://www.halopedia.org/New_Alexandria_%28level%29) for general information.

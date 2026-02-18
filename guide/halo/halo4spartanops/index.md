@@ -1,6 +1,8 @@
 ---
 title: Halo 4 Spartan Ops
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Work in Progress

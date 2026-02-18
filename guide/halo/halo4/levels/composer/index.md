@@ -1,6 +1,8 @@
 ---
 title: Composer
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Composer** is the seventh level in [Halo 4](../../index.md). See [Halopedia](http://www.halopedia.org/Composer_%28level%29) for general information.

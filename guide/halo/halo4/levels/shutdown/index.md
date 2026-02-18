@@ -1,6 +1,8 @@
 ---
 title: Shutdown
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Shutdown** is the sixth level in [Halo 4](../../index.md). See [Halopedia](http://www.halopedia.org/Shutdown) for general information.

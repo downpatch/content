@@ -1,6 +1,8 @@
 ---
 title: Global Tricks
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 If you are new to Halo speedrunning, these are some tricks, techniques and game mechanics that are widely applicable to the Halo series.

@@ -1,6 +1,8 @@
 ---
 title: Nightfall
 description: 
+leaderboard: https://haloruns.com/leaderboards/reach/solo/nightfall/Easy
+discord: https://haloruns.com/discord
 ---
 
 Nightfall is the third playable level in [Halo: Reach](../../index.md). See [Halopedia](http://www.halopedia.org/Nightfall) for general information.

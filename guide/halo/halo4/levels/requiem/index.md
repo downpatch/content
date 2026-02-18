@@ -1,6 +1,8 @@
 ---
 title: Requiem
 description: 
+leaderboard: https://haloruns.com/leaderboards/h4/solo/requiem/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Requiem** is the second level in [Halo 4](../../index.md). See [Halopedia](http://www.halopedia.org/Requiem_%28level%29) for general information.

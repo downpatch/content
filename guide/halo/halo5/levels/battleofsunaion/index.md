@@ -1,6 +1,8 @@
 ---
 title: Battle of Sunaion
 description: 
+leaderboard: http://haloruns.com/records?lb=0809
+discord: https://haloruns.com/discord
 ---
 
 **Battle of Sunaion** is the 12th level in [Halo 5](../../index.md). See \[<http://www.halopedia.org/Halo_5:_Guardians>) Halopedia\] for general information.

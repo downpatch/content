@@ -1,6 +1,8 @@
 ---
 title: Crows Nest
 description: 
+leaderboard: https://haloruns.com/records?lb=0302
+discord: https://haloruns.com/discord
 ---
 
 **Crow's Nest** is the second playable level in [Halo 3](../../index.md). See [Crow's Nest (Halo Nation)](http://halo.wikia.com/wiki/Crow%27s_Nest_(level)) for more general information.

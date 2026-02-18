@@ -1,6 +1,8 @@
 ---
 title: House of Reckoning
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/House%20of%20Reckoning/Easy
+discord: https://haloruns.com/discord
 ---
 
 **House of Reckoning** is the fifteenth playable level in [Halo Infinite](../../index.md). See [House of Reckoning (Halopedia)](https://www.halopedia.org/House_of_Reckoning) for general information.

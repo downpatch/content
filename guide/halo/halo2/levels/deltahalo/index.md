@@ -1,6 +1,8 @@
 ---
 title: Delta Halo
 description: 
+leaderboard: https://haloruns.com/leaderboards/h2a/solo/dh/Legendary
+discord: https://haloruns.com/discord
 ---
 
 **Delta Halo** is the seventh playable level in [Halo 2](../../index.md). See Delta Halo (level) for general information.

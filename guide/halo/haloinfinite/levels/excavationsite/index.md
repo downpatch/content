@@ -1,6 +1,8 @@
 ---
 title: Excavation Site
 description: 
+leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Excavation%20Site/Easy
+discord: https://haloruns.com/discord
 ---
 
 **Excavation Site** is the sixth playable level in [Halo Infinite](../../index.md). See Excavation Site (Halopedia), the fifth mission in [Halo Infinite](../../index.md), is not tracked on [haloruns.](https://haloruns.com/)

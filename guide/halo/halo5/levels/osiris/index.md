@@ -1,6 +1,8 @@
 ---
 title: Osiris
 description: 
+leaderboard: http://haloruns.com/records?lb=0801
+discord: https://haloruns.com/discord
 ---
 
 **Osiris** is the first level in [Halo 5](../../index.md). See \[<http://www.halopedia.org/Halo_5:_Guardians>) Halopedia\] for general information.

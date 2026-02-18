@@ -1,6 +1,8 @@
 ---
 title: Gravemind
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 **Gravemind** is the eleventh playable level in [Halo 2](../../index.md). See Gravemind (level) for general information.

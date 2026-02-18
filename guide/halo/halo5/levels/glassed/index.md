@@ -1,6 +1,8 @@
 ---
 title: Glassed
 description: 
+leaderboard: http://haloruns.com/records?lb=0803
+discord: https://haloruns.com/discord
 ---
 
 **Glassed** is the 3rd level in [Halo 5](../../index.md). See \[<http://www.halopedia.org/Halo_5:_Guardians>) Halopedia\] for general information.

@@ -1,6 +1,8 @@
 ---
 title: Tsavo Highway
 description: 
+leaderboard: https://haloruns.com/records?lb=0303
+discord: https://haloruns.com/discord
 ---
 
 **Tsavo Highway** is the third playable level in [Halo 3](../../index.md). See [Tsavo Highway (Halo Nation)](http://halo.wikia.com/wiki/Tsavo_Highway_(level)) for general information.

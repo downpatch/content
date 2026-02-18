@@ -1,6 +1,8 @@
 ---
 title: Cortana
 description: 
+leaderboard: https://haloruns.com/records?lb=0308
+discord: https://haloruns.com/discord
 ---
 
 **Cortana** is the eighth playable level in [Halo 3](../../index.md). See [Cortana (level) (Halo Nation)](http://halo.wikia.com/wiki/Cortana_(level)) for more general information.

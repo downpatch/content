@@ -1,6 +1,8 @@
 ---
 title: API Documentation
 description: 
+leaderboard: https://haloruns.com/api/request?query=recentRuns&format=json
+discord: https://haloruns.com/discord
 ---
 
 The HaloRuns API is entirely contained in the subdirectory `/api/`. There are some conventions that multiple API calls follow.

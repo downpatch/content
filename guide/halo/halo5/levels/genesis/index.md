@@ -1,6 +1,8 @@
 ---
 title: Genesis
 description: 
+leaderboard: http://haloruns.com/records?lb=0810
+discord: https://haloruns.com/discord
 ---
 
 **Genesis** is the 13th level in [Halo 5](../../index.md). See \[<http://www.halopedia.org/Halo_5:_Guardians>) Halopedia\] for general information.

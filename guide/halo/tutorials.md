@@ -1,6 +1,8 @@
 ---
 title: Full Game Tutorials
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 If you’re looking for tutorials on Halo speedrunning, you’ve come to the right place! Check out some of the tutorials below. (Please note that some tutorials may be outdated, so be sure to use what you learn and watch the World Record videos over at Haloruns.com for the most up-to-date strategies.)

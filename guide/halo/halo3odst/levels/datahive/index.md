@@ -1,6 +1,8 @@
 ---
 title: Data Hive
 description: 
+leaderboard: https://haloruns.com
+discord: https://haloruns.com/discord
 ---
 
 Data Hive is the second to last level in [Halo 3: ODST](../../index.md). See [Halopedia](http://www.halopedia.org/Data_Hive) for general information.

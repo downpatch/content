@@ -1,6 +1,8 @@
 ---
 title: Halo 2 MCC
 description: 
+leaderboard: http://www.haloruns.com/records?lb=0700
+discord: https://haloruns.com/discord
 ---
 
 Halo 2 MCC (also known as Halo 2: Anniversary) is a remastered version of [Halo 2](../halo2/index.md) for the Xbox One and PC that features new toggle-able HD graphics and audio, 60 FPS framerate, and high quality pre-rendered cutscenes from Blur Studios. At release, popular glitches such as [Sword Flying](../halo2/index.md#Sword_Flying) and [Sword Canceling](../halo2/index.md#Sword_Canceling) were not possible on Halo 2 MCC. Due to the differences between Classic and MCC, the leaderboards for the two games were separated. In 2018, a patch re-introduced [Sword Flying](../halo2/index.md#Sword_Flying) to Halo 2 MCC.

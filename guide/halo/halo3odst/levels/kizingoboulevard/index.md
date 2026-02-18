@@ -1,6 +1,8 @@
 ---
 title: Kizingo Boulevard
 description: 
+leaderboard: http://www.haloruns.com/records?lb=401
+discord: https://haloruns.com/discord
 ---
 
 Kizingo Boulevard is the third flashback level in [Halo 3: ODST](../../index.md). See [Halopedia](http://www.halopedia.org/Kizingo_Boulevard_%28level%29) for general information.

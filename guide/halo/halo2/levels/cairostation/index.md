@@ -1,6 +1,8 @@
 ---
 title: Cairo Station
 description: 
+leaderboard: https://haloruns.com/leaderboards/h2a/solo/cairo/Legendary
+discord: https://haloruns.com/discord
 ---
 
 **Cairo Station** is the second playable level in [Halo 2](../../index.md). See [Halopedia](http://halopedia.org/Cairo_Station_(level)) for general information. The general strategies vary between Easy and Legendary.

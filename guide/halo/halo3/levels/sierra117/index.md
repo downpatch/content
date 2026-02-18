@@ -1,6 +1,8 @@
 ---
 title: Sierra 117
 description: 
+leaderboard: https://haloruns.com/records?lb=0301
+discord: https://haloruns.com/discord
 ---
 
 **Sierra 117** is the first playable level in [Halo 3](../../index.md). See [Sierra 117 (Halo Nation)](http://halo.wikia.com/wiki/Sierra_117_(level)) for general information.
