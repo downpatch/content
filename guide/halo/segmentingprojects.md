@@ -1,6 +1,6 @@
 ---
 title: Segmented Projects
-description: 
+description: Community segmented projects, references, and collaboration resources.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

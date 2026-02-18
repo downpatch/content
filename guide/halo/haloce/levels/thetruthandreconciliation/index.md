@@ -1,6 +1,6 @@
 ---
 title: The Truth and Reconciliation
-description: 
+description: Speedrun strategy page for The Truth and Reconciliation in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=103
 discord: https://haloruns.com/discord
 ---

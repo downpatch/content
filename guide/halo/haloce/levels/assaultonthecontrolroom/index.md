@@ -1,6 +1,6 @@
 ---
 title: Assault on the Control Room
-description: 
+description: Speedrun strategy page for Assault on the Control Room in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=105
 discord: https://haloruns.com/discord
 ---

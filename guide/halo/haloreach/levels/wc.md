@@ -1,7 +1,7 @@
 ---
 title: Winter Contingency
 nav_title: Winter Contingency
-description: Video guide links for Winter Contingency
+description: Speedrun strategy page for Winter Contingency in Halo Reach, including route notes, tricks, and leaderboard links.
 game: Halo: Reach
 series: Halo
 
@@ -13,7 +13,6 @@ downpatch: sometimes
 allowed_versions: "All"
 where_to_buy: "Steam / Xbox Store"
 ---
-
 
 Dyse's Basic Guide
 https://youtu.be/vfVV4xhAMRw

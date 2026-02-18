@@ -1,7 +1,7 @@
 ---
 title: Halo 3: ODST
 nav_title: Halo 3: ODST
-description: Getting started with speedrunning Halo 3: ODST in MCC. Includes timing rules, version notes, and links to the Halo community leaderboards.
+description: Halo 3 ODST speedrunning hub with category context, core techniques, and links to level guides.
 game: Halo 3: ODST
 series: Halo
 

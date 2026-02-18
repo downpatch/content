@@ -1,6 +1,6 @@
 ---
 title: The Library
-description: 
+description: Speedrun strategy page for The Library in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=107
 discord: https://haloruns.com/discord
 ---

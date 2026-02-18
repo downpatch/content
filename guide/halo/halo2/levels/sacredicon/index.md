@@ -1,6 +1,6 @@
 ---
 title: Sacred Icon
-description: 
+description: Speedrun strategy page for Sacred Icon in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/h2a/solo/si/Easy
 discord: https://haloruns.com/discord
 ---

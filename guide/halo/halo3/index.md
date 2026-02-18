@@ -1,7 +1,7 @@
 ---
 title: Halo 3
 nav_title: Halo 3
-description: Getting started with speedrunning Halo 3 in MCC. Covers timing methods, version expectations, and where to find the official rules and leaderboards.
+description: Halo 3 speedrunning hub with category context, core techniques, and links to level guides.
 game: Halo 3
 series: Halo
 

@@ -1,6 +1,6 @@
 ---
 title: Unconfirmed
-description: 
+description: Speedrun strategy page for Unconfirmed in Halo 5 Guardians, including route notes, tricks, and leaderboard links.
 leaderboard: http://haloruns.com/records?lb=0804
 discord: https://haloruns.com/discord
 ---

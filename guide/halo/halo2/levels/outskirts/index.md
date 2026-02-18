@@ -1,6 +1,6 @@
 ---
 title: Outskirts
-description: 
+description: Speedrun strategy page for Outskirts in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/h2a/solo/os/Legendary
 discord: https://haloruns.com/discord
 ---

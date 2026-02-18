@@ -1,6 +1,6 @@
 ---
 title: Kizingo Boulevard
-description: 
+description: Speedrun strategy page for Kizingo Boulevard in Halo 3 ODST, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=401
 discord: https://haloruns.com/discord
 ---

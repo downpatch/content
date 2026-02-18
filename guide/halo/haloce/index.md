@@ -1,7 +1,7 @@
 ---
 title: Halo: Combat Evolved
 nav_title: Halo: Combat Evolved
-description: Getting started with speedrunning Halo: Combat Evolved in MCC. Covers timing methods, version expectations, and links to the official rules and leaderboards.
+description: Halo: Combat Evolved speedrunning hub with category context, core techniques, and links to level guides.
 game: Halo: Combat Evolved
 series: Halo
 

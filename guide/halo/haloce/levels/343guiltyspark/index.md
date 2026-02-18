@@ -1,6 +1,6 @@
 ---
 title: 343 Guilty Spark
-description: 
+description: Speedrun strategy page for 343 Guilty Spark in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=106
 discord: https://haloruns.com/discord
 ---

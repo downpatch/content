@@ -1,6 +1,6 @@
 ---
 title: The Pillar of Autumn
-description: 
+description: Speedrun strategy page for The Pillar of Autumn in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

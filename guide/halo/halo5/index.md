@@ -1,6 +1,6 @@
 ---
 title: Halo 5 Guardians
-description: 
+description: Halo 5 Guardians speedrunning hub with category context, core techniques, and links to level guides.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

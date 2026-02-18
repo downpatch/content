@@ -1,6 +1,6 @@
 ---
 title: Two Betrayals
-description: 
+description: Speedrun strategy page for Two Betrayals in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=108
 discord: https://haloruns.com/discord
 ---

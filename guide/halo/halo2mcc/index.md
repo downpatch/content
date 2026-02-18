@@ -1,6 +1,6 @@
 ---
 title: Halo 2 MCC
-description: 
+description: Halo 2 MCC speedrunning hub with category context, core techniques, and links to level guides.
 leaderboard: http://www.haloruns.com/records?lb=0700
 discord: https://haloruns.com/discord
 ---

@@ -1,6 +1,6 @@
 ---
 title: High Charity
-description: 
+description: Speedrun strategy page for High Charity in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

@@ -1,6 +1,6 @@
 ---
 title: Speedrunning Glossary
-description: 
+description: Definitions of common Halo speedrunning terms, abbreviations, and techniques.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

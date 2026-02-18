@@ -1,6 +1,6 @@
 ---
 title: Regret
-description: 
+description: Speedrun strategy page for Regret in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/h2a/solo/regret/Legendary
 discord: https://haloruns.com/discord
 ---

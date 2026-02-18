@@ -1,6 +1,6 @@
 ---
 title: Long Night of Solace
-description: 
+description: Speedrun strategy page for Long Night of Solace in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: http://haloruns.com/records?lb=505
 discord: https://haloruns.com/discord
 ---

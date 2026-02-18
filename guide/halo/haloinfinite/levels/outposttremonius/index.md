@@ -1,6 +1,6 @@
 ---
 title: Outpost Tremonius
-description: 
+description: Speedrun strategy page for Outpost Tremonius in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Outpost%20Tremonius/Easy
 discord: https://haloruns.com/discord
 ---

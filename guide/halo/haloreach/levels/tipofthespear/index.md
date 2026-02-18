@@ -1,6 +1,6 @@
 ---
 title: Tip of the Spear
-description: 
+description: Speedrun strategy page for Tip of the Spear in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

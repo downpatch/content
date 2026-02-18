@@ -1,6 +1,6 @@
 ---
 title: Halo
-description: 
+description: Speedrun strategy page for Halo in Halo 3, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/records?lb=0309
 discord: https://haloruns.com/discord
 ---

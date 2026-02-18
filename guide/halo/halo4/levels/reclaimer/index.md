@@ -1,6 +1,6 @@
 ---
 title: Reclaimer
-description: 
+description: Speedrun strategy page for Reclaimer in Halo 4, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

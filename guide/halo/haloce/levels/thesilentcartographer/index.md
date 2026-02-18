@@ -1,6 +1,6 @@
 ---
 title: The Silent Cartographer
-description: 
+description: Speedrun strategy page for The Silent Cartographer in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=104
 discord: https://haloruns.com/discord
 ---

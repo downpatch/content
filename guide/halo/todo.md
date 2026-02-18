@@ -1,6 +1,6 @@
 ---
 title: Wiki To-do List
-description: 
+description: Open tasks and maintenance notes for the Halo speedrunning wiki.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

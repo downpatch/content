@@ -1,7 +1,7 @@
 ---
 title: Halo: Reach
 nav_title: Halo: Reach
-description: Getting started with speedrunning Halo: Reach in MCC. Covers timing methods, version behaviour, and links to official Halo speedrunning resources.
+description: Halo Reach speedrunning hub with category context, core techniques, and links to level guides.
 og_image: og.webp
 square_image: square.webp
 platforms:

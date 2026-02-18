@@ -1,6 +1,6 @@
 ---
 title: The Maw
-description: 
+description: Speedrun strategy page for The Maw in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=110
 discord: https://haloruns.com/discord
 ---

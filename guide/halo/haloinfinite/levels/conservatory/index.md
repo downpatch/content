@@ -1,6 +1,6 @@
 ---
 title: Conservatory
-description: 
+description: Speedrun strategy page for Conservatory in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Conservatory/Easy
 discord: https://haloruns.com/discord
 ---

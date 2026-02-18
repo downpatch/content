@@ -1,6 +1,6 @@
 ---
 title: Winter Contingency
-description: 
+description: Speedrun strategy page for Winter Contingency in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/reach/solo/wc/Easy
 discord: https://haloruns.com/discord
 ---

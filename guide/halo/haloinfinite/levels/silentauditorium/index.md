@@ -1,6 +1,6 @@
 ---
 title: Silent Auditorium
-description: 
+description: Speedrun strategy page for Silent Auditorium in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Silent%20Auditorium/Easy
 discord: https://haloruns.com/discord
 ---

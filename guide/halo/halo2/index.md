@@ -1,7 +1,7 @@
 ---
 title: Halo 2
 nav_title: Halo 2
-description: Getting started with speedrunning Halo 2 in MCC. Includes timing methods, version behaviour, and links to official Halo speedrunning rules.
+description: Halo 2 speedrunning hub with category context, core techniques, and links to level guides.
 game: Halo 2
 series: Halo
 

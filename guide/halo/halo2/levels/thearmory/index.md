@@ -1,6 +1,6 @@
 ---
 title: The Armory
-description: 
+description: Speedrun strategy page for The Armory in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

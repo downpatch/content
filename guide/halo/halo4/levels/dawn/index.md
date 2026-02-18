@@ -1,6 +1,6 @@
 ---
 title: Dawn
-description: 
+description: Speedrun strategy page for Dawn in Halo 4, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/h4/solo/dawn/Easy
 discord: https://haloruns.com/discord
 ---

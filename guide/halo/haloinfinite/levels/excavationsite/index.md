@@ -1,6 +1,6 @@
 ---
 title: Excavation Site
-description: 
+description: Speedrun strategy page for Excavation Site in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Excavation%20Site/Easy
 discord: https://haloruns.com/discord
 ---

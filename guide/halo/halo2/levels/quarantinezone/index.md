@@ -1,6 +1,6 @@
 ---
 title: Quarantine Zone
-description: 
+description: Speedrun strategy page for Quarantine Zone in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

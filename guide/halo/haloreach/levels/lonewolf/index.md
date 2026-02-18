@@ -1,6 +1,6 @@
 ---
 title: Lone Wolf
-description: 
+description: Speedrun strategy page for Lone Wolf in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: http://haloruns.com
 discord: https://haloruns.com/discord
 ---

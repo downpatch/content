@@ -1,6 +1,6 @@
 ---
 title: Cairo Station
-description: 
+description: Speedrun strategy page for Cairo Station in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/h2a/solo/cairo/Legendary
 discord: https://haloruns.com/discord
 ---

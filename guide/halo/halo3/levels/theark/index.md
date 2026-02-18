@@ -1,6 +1,6 @@
 ---
 title: The Ark
-description: 
+description: Speedrun strategy page for The Ark in Halo 3, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/records?lb=0306
 discord: https://haloruns.com/discord
 ---

@@ -1,7 +1,7 @@
 ---
-title: Halo: 4
+title: Halo 4
 nav_title: Halo: 4
-description: Getting started with speedrunning Halo 4 in MCC. Includes timing methods, version expectations, and links to official Halo speedrunning rules.
+description: Halo 4 speedrunning hub with category context, core techniques, and links to level guides.
 game: Halo 4
 series: Halo
 

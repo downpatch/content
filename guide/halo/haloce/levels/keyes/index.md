@@ -1,6 +1,6 @@
 ---
 title: Keyes
-description: 
+description: Speedrun strategy page for Keyes in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=109
 discord: https://haloruns.com/discord
 ---

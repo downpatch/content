@@ -1,6 +1,6 @@
 ---
 title: Tsavo Highway
-description: 
+description: Speedrun strategy page for Tsavo Highway in Halo 3, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/records?lb=0303
 discord: https://haloruns.com/discord
 ---

@@ -1,6 +1,6 @@
 ---
 title: ONI Sword Base
-description: 
+description: Speedrun strategy page for ONI Sword Base in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/reach/solo/oni/Easy
 discord: https://haloruns.com/discord
 ---

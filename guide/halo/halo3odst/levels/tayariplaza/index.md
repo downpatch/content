@@ -1,6 +1,6 @@
 ---
 title: Tayari Plaza
-description: 
+description: Speedrun strategy page for Tayari Plaza in Halo 3 ODST, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

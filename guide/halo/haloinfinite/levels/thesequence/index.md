@@ -1,6 +1,6 @@
 ---
 title: The Sequence
-description: 
+description: Speedrun strategy page for The Sequence in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/The%20Sequence/Easyy
 discord: https://haloruns.com/discord
 ---

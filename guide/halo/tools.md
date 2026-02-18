@@ -1,6 +1,6 @@
 ---
 title: Speedrun Tools and Helpful Links
-description: 
+description: Useful tools, setup resources, and links to help with Halo speedrunning.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

@@ -1,6 +1,6 @@
 ---
 title: Recovery
-description: 
+description: Speedrun strategy page for Recovery in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Recovery/Easy
 discord: https://haloruns.com/discord
 ---

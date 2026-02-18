@@ -1,6 +1,6 @@
 ---
 title: Exodus
-description: 
+description: Speedrun strategy page for Exodus in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

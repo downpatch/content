@@ -1,7 +1,7 @@
 ---
 title: Level Guides
 nav_title: Level Guides
-description: 
+description: Index of Halo Reach level strategy pages and quick links.
 game: Halo: Reach
 series: Halo
 

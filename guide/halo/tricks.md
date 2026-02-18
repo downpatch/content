@@ -1,6 +1,6 @@
 ---
 title: Global Tricks
-description: 
+description: Core movement, combat, and game mechanics used across Halo speedruns.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

@@ -1,6 +1,6 @@
 ---
 title: Battle of Sunaion
-description: 
+description: Speedrun strategy page for Battle of Sunaion in Halo 5 Guardians, including route notes, tricks, and leaderboard links.
 leaderboard: http://haloruns.com/records?lb=0809
 discord: https://haloruns.com/discord
 ---

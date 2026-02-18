@@ -1,6 +1,6 @@
 ---
 title: API Documentation
-description: 
+description: Reference documentation for HaloRuns API endpoints and usage.
 leaderboard: https://haloruns.com/api/request?query=recentRuns&format=json
 discord: https://haloruns.com/discord
 ---

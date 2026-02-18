@@ -1,6 +1,6 @@
 ---
 title: The Road
-description: 
+description: Speedrun strategy page for The Road in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/The%20Road/Easy
 discord: https://haloruns.com/discord
 ---

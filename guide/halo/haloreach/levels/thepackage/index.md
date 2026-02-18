@@ -1,6 +1,6 @@
 ---
 title: The Package
-description: 
+description: Speedrun strategy page for The Package in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

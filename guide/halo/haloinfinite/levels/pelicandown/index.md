@@ -1,6 +1,6 @@
 ---
 title: Pelican Down
-description: 
+description: Speedrun strategy page for Pelican Down in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Pelican%20Down/Easy
 discord: https://haloruns.com/discord
 ---

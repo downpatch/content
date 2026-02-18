@@ -1,6 +1,6 @@
 ---
 title: Nightfall
-description: 
+description: Speedrun strategy page for Nightfall in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/reach/solo/nightfall/Easy
 discord: https://haloruns.com/discord
 ---

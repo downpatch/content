@@ -1,6 +1,6 @@
 ---
 title: Nexus
-description: 
+description: Speedrun strategy page for Nexus in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Nexus/Easy
 discord: https://haloruns.com/discord
 ---

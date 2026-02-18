@@ -1,6 +1,6 @@
 ---
 title: House of Reckoning
-description: 
+description: Speedrun strategy page for House of Reckoning in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/House%20of%20Reckoning/Easy
 discord: https://haloruns.com/discord
 ---

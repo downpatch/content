@@ -1,6 +1,6 @@
 ---
 title: The Covenant
-description: 
+description: Speedrun strategy page for The Covenant in Halo 3, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/records?lb=0307
 discord: https://haloruns.com/discord
 ---

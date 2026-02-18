@@ -1,6 +1,6 @@
 ---
 title: Halo
-description: 
+description: Speedrun strategy page for Halo in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=102
 discord: https://haloruns.com/discord
 ---

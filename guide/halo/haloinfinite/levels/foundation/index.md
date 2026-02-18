@@ -1,6 +1,6 @@
 ---
 title: Foundation
-description: 
+description: Speedrun strategy page for Foundation in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Foundation/Easy
 discord: https://haloruns.com/discord
 ---

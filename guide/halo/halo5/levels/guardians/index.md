@@ -1,6 +1,6 @@
 ---
 title: Guardians
-description: 
+description: Speedrun strategy page for Guardians in Halo 5 Guardians, including route notes, tricks, and leaderboard links.
 leaderboard: http://haloruns.com/records?lb=0812
 discord: https://haloruns.com/discord
 ---

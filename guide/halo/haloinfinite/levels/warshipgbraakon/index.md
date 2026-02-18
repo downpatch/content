@@ -1,6 +1,6 @@
 ---
 title: Warship Gbraakon
-description: 
+description: Speedrun strategy page for Warship Gbraakon in Halo Infinite, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/infinite/Solo/Warship%20Gbraakon/Easy
 discord: https://haloruns.com/discord
 ---

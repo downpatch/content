@@ -1,6 +1,6 @@
 ---
 title: Metropolis
-description: 
+description: Speedrun strategy page for Metropolis in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/h2a/solo/metro
 discord: https://haloruns.com/discord
 ---

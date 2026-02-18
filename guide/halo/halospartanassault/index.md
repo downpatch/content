@@ -1,6 +1,6 @@
 ---
 title: Halo Spartan Assault
-description: 
+description: Halo Spartan Assault speedrunning hub with category context, core techniques, and links to level guides.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

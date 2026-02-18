@@ -1,6 +1,6 @@
 ---
 title: ONI Alpha Site
-description: 
+description: Speedrun strategy page for ONI Alpha Site in Halo 3 ODST, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

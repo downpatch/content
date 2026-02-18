@@ -1,6 +1,6 @@
 ---
 title: Floodgate
-description: 
+description: Speedrun strategy page for Floodgate in Halo 3, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/records?lb=0305
 discord: https://haloruns.com/discord
 ---

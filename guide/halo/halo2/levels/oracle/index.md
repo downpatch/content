@@ -1,6 +1,6 @@
 ---
 title: Oracle
-description: 
+description: Speedrun strategy page for Oracle in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/h2a/solo/oracle/Legendary
 discord: https://haloruns.com/discord
 ---

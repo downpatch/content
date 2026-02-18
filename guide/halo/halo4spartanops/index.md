@@ -1,6 +1,6 @@
 ---
 title: Halo 4 Spartan Ops
-description: 
+description: Halo 4 Spartan Ops speedrunning hub with category context, core techniques, and links to level guides.
 leaderboard: https://haloruns.com
 discord: https://haloruns.com/discord
 ---

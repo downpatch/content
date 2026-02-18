@@ -1,6 +1,6 @@
 ---
 title: The Breaking
-description: 
+description: Speedrun strategy page for The Breaking in Halo 5 Guardians, including route notes, tricks, and leaderboard links.
 leaderboard: http://haloruns.com/records?lb=0811
 discord: https://haloruns.com/discord
 ---

@@ -1,6 +1,6 @@
 ---
 title: New Alexandria
-description: 
+description: Speedrun strategy page for New Alexandria in Halo Reach, including route notes, tricks, and leaderboard links.
 leaderboard: http://haloruns.com/records?lb=507
 discord: https://haloruns.com/discord
 ---

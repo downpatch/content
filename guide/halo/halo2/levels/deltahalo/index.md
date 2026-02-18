@@ -1,6 +1,6 @@
 ---
 title: Delta Halo
-description: 
+description: Speedrun strategy page for Delta Halo in Halo 2, including route notes, tricks, and leaderboard links.
 leaderboard: https://haloruns.com/leaderboards/h2a/solo/dh/Legendary
 discord: https://haloruns.com/discord
 ---

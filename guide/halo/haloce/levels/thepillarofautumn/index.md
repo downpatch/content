@@ -1,6 +1,6 @@
 ---
 title: The Pillar of Autumn
-description: 
+description: Speedrun strategy page for The Pillar of Autumn in Halo: Combat Evolved, including route notes, tricks, and leaderboard links.
 leaderboard: http://www.haloruns.com/records?lb=101
 discord: https://haloruns.com/discord
 ---
