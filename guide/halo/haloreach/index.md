@@ -11,7 +11,6 @@ leaderboard: https://haloruns.com/leaderboards/reach/solo/fullgame/Easy
 discord: https://haloruns.com/discord
 ---
 
-
 Halo: Reach is the first game in the series to add sprint. As a speedrun, it has many tricks, but it is less popular than the main trilogy.
 
 Halo Runs record page: <http://www.haloruns.com/records?lb=500> (click the timestamps for video links)
@@ -48,16 +47,16 @@ Similar to Halo 3, using an ammo crate (UNSC), a Gravity Hammer and a Grenade fo
 
 ## Level Strategies
 
-- [Winter Contingency](levels/wc)
-- [ONI: Sword Base](levels/oni_sword_base)
-- [Nightfall](levels/nightfall)
-- [Tip of the Spear](levels/tip_of_the_spear)
-- [Long Night of Solace](levels/long_night_of_solace)
-- [Exodus](levels/exodus)
-- [New Alexandria](levels/new_alexandria)
-- [The Package](levels/the_package)
-- [The Pillar of Autumn (Halo: Reach)](levels/the_pillar_of_autumn)
-- [Lone Wolf](levels/lone_wolf)
+- [Winter Contingency](levels/wintercontingency/index.md)
+- [ONI: Sword Base](levels/oniswordbase/index.md)
+- [Nightfall](levels/nightfall/index.md)
+- [Tip of the Spear](levels/tipofthespear/index.md)
+- [Long Night of Solace](levels/longnightofsolace/index.md)
+- [Exodus](levels/exodus/index.md)
+- [New Alexandria](levels/newalexandria/index.md)
+- [The Package](levels/thepackage/index.md)
+- [The Pillar of Autumn (Halo: Reach)](levels/thepillarofautumn/index.md)
+- [Lone Wolf](levels/lonewolf/index.md)
 
 ## Enemies
 
@@ -69,19 +68,35 @@ The basic way to deal with elites is using a noob combo.
 
 - **Minor** Elites are blue color, they have weak shields (a melee is enought to take them out on legendary difficulty) and not much health.
 
+<!-- -->
+
 - **Major** Elites are a red-orange color, not to be confused with the gold armor of Generals. Have more shields and health than minors, when unshielded, they can withstand a melee on easy difficulty.
+
+<!-- -->
 
 - **Spec Ops** Elites are black color they are the weakest elites in the game, less shields and health than the minors and always have active camo on.
 
+<!-- -->
+
 - **Ranger** Elites in Reach are white color with jetpacks. They have weak shields and have been seen using plasma repeaters, needle rifles, concussion rifles, and focus rifles.
+
+<!-- -->
 
 - **Ultra** Elites are white color. They will occasionally use Armor Lock to tank explosions, such as grenades or needler supercombines. Unlike in Halo 2, they possess no sword pull ability, their shields can tank a plasma grenade on legendary difficulty.
 
-- **Zealot** Elites are maroon/purple color, have more health and shields. They appear on the levels [Winter Contingency](Winter_Contingency "wikilink"), [Tip of the Spear](Tip_of_the_Spear "wikilink"), and [The Pillar of Autumn (Halo: Reach)](The_Pillar_of_Autumn_(Halo:_Reach) "wikilink").
+<!-- -->
+
+- **Zealot** Elites are maroon/purple color, have more health and shields. They appear on the levels [Winter Contingency](levels/wintercontingency/index.md), [Tip of the Spear](levels/tipofthespear/index.md), and [The Pillar of Autumn (Halo: Reach)](levels/thepillarofautumn/index.md).
+
+<!-- -->
 
 - **General** Elites are gold color and have the strongest shields of all the Elites (besides BOB), even stronger than Zealots. They are also fairly common. They are usually found wielding swords or heavy weapons (FRG/Plasma Launcher).
 
+<!-- -->
+
 - **Field Marshal** Elites are basically Generals but with a shield than can handle an emp, one of them is encountered at the end of The Pillar of Autumn. He's noticeably faster and more responsive, and carries two weapons, fuel rod gun and energy swordd.
+
+<!-- -->
 
 - **BOB** Elites are golden rangers and can take a full EMP without losing their shields. They can be seen in every level carrying concussion rifles or fuel rods.
 
@@ -91,7 +106,11 @@ To easily deal with brutes use a needler or a needle rifle, they tend to continu
 
 - **Infantry** Brutes don't have shields and a supercombine or 3 headshtos kills them really fast.
 
+<!-- -->
+
 - **Captain** Brutes don't have shields, they take 5 headshots or one supercombine.
+
+<!-- -->
 
 - **Chieftain** Brutes have shields and hevy weapons you will need to take them down and then get the supercombine.
 
@@ -101,7 +120,11 @@ Easy to kill, say no more.
 
 - **Infantry** Grunts die with just a headshot on any difficulty.
 
+<!-- -->
+
 - **Specialist** Grunts can carry heavy weapons such as FRG they also die with one headshot.
+
+<!-- -->
 
 - **Ultra** Grunts are a bit stronger, they have a mask that protects them from headshots so you will need to remove the mask first.
 
