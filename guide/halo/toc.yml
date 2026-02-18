@@ -1,20 +1,60 @@
 - name: Overview
   href: index.md
 
-- name: Livesplit
-  href: livesplit/index.md
+- name: Key Information
+  items:
+    - name: "Full Game Tutorials"
+      href: tutorials.md
+    - name: "Segmented Projects"
+      href: segmentingprojects.md
+    - name: "Speedrun Tools and Helpful Links"
+      href: tools.md
+    - name: "Global Tricks"
+      href: tricks.md
 
 - name: Games
   items:
-    - name: "Halo: Combat Evolved"
+    - name: "Halo Combat Evolved"
       href: haloce/index.md
     - name: "Halo 2"
       href: halo2/index.md
+    - name: "Halo 2 MCC"
+      href: halo2mcc/index.md
     - name: "Halo 3"
       href: halo3/index.md
-    - name: "Halo 3: ODST"
+    - name: "Halo 3 ODST"
       href: halo3odst/index.md
-    - name: "Halo: Reach"
+    - name: "Halo Reach"
       href: haloreach/index.md
     - name: "Halo 4"
       href: halo4/index.md
+    - name: "Halo 5 Guardians"
+      href: halo5/index.md
+    - name: "Halo Infinite"
+      href: haloinfinite/index.md
+
+- name: Spin-Off Games
+  items:
+    - name: "Halo Wars"
+      href: halowars/index.md
+    - name: "Halo Wars 2"
+      href: halowars2/index.md
+    - name: "Halo Spartan Assault"
+      href: halospartanassault/index.md
+    - name: "Halo Spartan Strike"
+      href: halospartanstrike/index.md
+    - name: "Halo 4 Spartan Ops"
+      href: halo4spartanops/index.md
+
+- name: Miscellaneous
+  items:
+    - name: "History of Halo Speedrunning"
+      href: history.md
+    - name: "Past Relays, Marathons, and Events"
+      href: events.md
+    - name: "Speedrunning Glossary"
+      href: glossary.md
+    - name: "API Documentation"
+      href: api.md
+    - name: "Wiki To-do List"
+      href: todo.md
