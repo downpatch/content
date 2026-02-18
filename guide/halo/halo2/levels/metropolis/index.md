@@ -101,15 +101,15 @@ Wait inside the Scarab just to the left of the ramp for the enemies to spawn. Gr
 
 There are several methods for clearing the Scarab on Legendary.
 
-#### *Method 1: Plasma Rifle Clear*
+### *Method 1: Plasma Rifle Clear*
 
 You should have plasma rifle + rocket launcher for this clear. Walk down to the end of the ramp into the Scarab. When the enemies spawn, quickly walk back up the ramp and towards the Scarab's head. Drop onto the side of the head and walk into the body of the Scarab. You should be able to view the 2 Major Elite pilots and the Ultra Elite from here. Use the plasma rifle to lower their shields and finish them off with the rocket launcher.
 
-#### *Method 2: Plasma Pistol Clear*
+### *Method 2: Plasma Pistol Clear*
 
 You should have battle rifle + rocket launcher for this clear. Walk down the ramp and to the left, in front of where the Grunts will spawn. Hold out your BR. Immediately when the Grunt spawns, headshot him with the BR and pick up his plasma pistol. The timing on this is tight, and it may take some practice. Holding the plasma pistol, quickly walk back up the ramp and towards the head of the Scarab. Drop onto the side of the head and walk into the body of the Scarab. You should be able to view the 2 Major Elite pilots and the Ultra Elite from here. Use the plasma pistol to drop their shields and finish them off with the rocket launcher.
 
-#### *Method 3: Shotgun Boost Clear*
+### *Method 3: Shotgun Boost Clear*
 
 This is the fastest yet riskiest clear and will take some practice to master. You need the shotgun + rocket launcher for this clear. Position yourself like you're doing the Plasma Pistol Clear except holding the shotgun. When the grunt spawns, wait half a second and then perform a shotgun boost to propel yourself towards the pilots. Switch weapons to your rocket launcher midair. The Ultra Elite will immediately enrage. Backsmack him during the animation. Then, holding the rocket launcher, bait the other two elites into melees, dodge the melee, and backsmack them.
 
@@ -123,15 +123,15 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
 - N/A
 
-#### Potential Strategies
+### Potential Strategies
 
 - N/A
 
-#### Knowledge Base
+### Knowledge Base
 
 - N/A
 

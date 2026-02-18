@@ -44,11 +44,11 @@ After killing the initial spawn with the needlers (2 Brutes + 2 Grunts), you can
 
 here is a little leeway in the positioning, it does not have to be perfect. You need to be slightly left of the center, use the dots in the distance as guides (the dots circled in the picture). Use the dots and the tip of the light (also circled) as your positioning tools.
 
-#### *On easy*
+### *On easy*
 
 When you hear the sound of the elevator coming up, exit and kill the last wave. There should be two Brutes on the elevator and one carbine brute in the stands. Then run to the door.
 
-#### *On legendary*
+### *On legendary*
 
 On Legendary, you MUST wait for the second checkpoint and additionally you must wait for approximately four "blips" of the radar before moving out of the room. Otherwise enemies will spawn. Repeat after clearing the enemies that appear to skip the final two waves. It may be helpful to keep a grunt alive until you get into position and then kill it. \<<Monopoli pls elaborate>\>
 
@@ -56,13 +56,13 @@ On Legendary, you MUST wait for the second checkpoint and additionally you must 
 
 The fastest way to get down is to skip going down the lift and fall off the slope instead. It's even faster if you get a brute boost along the way. You need to hit the slope properly to reset the fall timer, otherwise you will likely die when you hit the ground. Take the jackal's beam rifle - scare or kill him and he will drop it.
 
-#### *On legendary, no inf. camo*
+### *On legendary, no inf. camo*
 
 Kill all of the enemies in the next room. Position yourself with dual-wielding needlers (and carbine as the second weapon) to the left side of the door that Cortana will open. Hopefully you will get a checkpoint. Follow the exact route of the second part of the video \[0:46 - 1:17 in video\] as it is a very consistent method. It should be noted that you should aim slightly to the right of the brute when throwing your grenade. Pick up additional carbine ammo before dropping down if needed. You don't need to kill the jackal to get the beam rifle, simply shoot once to scare it and it will drop the beam rifle.
 
 ### Fourth Room
 
-#### *On legendary, no inf. camo*
+### *On legendary, no inf. camo*
 
 After receiving the beam rifle, go to the end of the third room and wait by the door for a checkpoint. If you are lucky with the RNG, the brute in the next room will be facing away from you, melee it in the back. If you are really lucky, you can also melee the two jackals in the room and skip the wave of two brutes and three (?) grunts that enter the room normally \[1:18 - 1:32 in video\]. If a jackal notices you, retreat and fight your way through the room.
 
@@ -72,7 +72,7 @@ After going down the main lift, you need to kill everything to trigger Cortana's
 
 Once everything is dead, Cortana should tell you to go to the lower level. You can go down via the lifts, or simply drop off the edge by landing on the curved shield protrusions. Killing all enemies (the guards) in Jail 1 frees the Marines. Kill everything on your way up to the middle level (Jail 2), then kill the guards.
 
-#### *Lift Spawn Kill*
+### *Lift Spawn Kill*
 
 Once the marines are freed, continue killing enemies and head to the upper level of the jail. When enough enemies have been killed, Cortana will say, "Hostile reinforcements! Coming down the lift!" This means that enemies have spawned in the grav lift. You can shut the lift off by going back down to the middle level at/around this time. Wait 7-10 seconds (until the lift sounds), then go back up. This is sufficient time for all enemies to fall to their deaths, which is a much quicker way of clearing the lift.
 
@@ -82,7 +82,7 @@ You can grab a beam rifle if you want to pull off long sword flies.
 
 Get the sword at the top of the lift. When you approach the door, 3 Elites will come out followed by some Drones. It helps to do a grounded sword cancel off one of the Elites, which will give you decent height and distance. You can pull a swordfly off the Hunter as shown. Once outside, swordfly off the far Jackal. If you don't make it all the way over the wall, head through the door and slide-jump your way down.
 
-#### *On legendary, no inf. camo*
+### *On legendary, no inf. camo*
 
 After the prison, pick up the sword so you have a sword + beam rifle combo. The easiest way to get through the hallways if for you to sword cancel in a way that it deloads the rest of the enemies. This can happen as in the video \[2:40 - 3:10 in video\] or by performing the sword cancel so you fly towards the ceiling. The latter is hard to do, the former is easier. Most of the time a checkpoint is obtained right before the door opens so revert to saves can be used if the deloading fails. Otherwise fighting through the next sections is necessary.
 
@@ -92,7 +92,7 @@ As you enter the second outdoor area, a sword Elite and Brute will be fighting i
 
 ### Jetpack Elite Room
 
-#### *On legendary, no inf. camo*
+### *On legendary, no inf. camo*
 
 Arguably the most dangerous room in the game to get through quickly. A safe method involves dropping down to the ground level and then jumping back up top via a box \[3:27 - 3:40\]. If no hesitation occured, only the brutes in the next hallway will spawn. The longer you idle in the jetpack room, the more enemies will spawn in the next hallway. The most dangerous spawns are 2 additional Rangers and a honor guard Elite.
 
@@ -110,7 +110,7 @@ At the large ramp up, the Brutes are an easy swordfly target.
 
 You can sword cancel off the jackal sniper. With a boost from a plasma grenade, it is possible to make it to the ledge on the other side.
 
-#### *On legendary, no inf. camo*
+### *On legendary, no inf. camo*
 
 As you enter the area, go around the left side and either grenade the jackal sniper or kill it with a weapon. Jump on top of the nearby box and run across the left side of the map. As in the video \[4:18 - 4:50 in video\], jump onto a series of rocks to reach the next door. Jumping on top of the map will skip the trigger for enemies coming outside of the door.
 
@@ -118,7 +118,7 @@ As you enter the area, go around the left side and either grenade the jackal sni
 
 Grab the Fuel Rod Gun from the hallway floor. When you get to the hall with the turret, kill the sniper jackal to the right as you enter the area. This will cause an elite to get in the turret fairly consistently. If you sword fly high enough off of him, you will fly over a trigger that causes an Elite and two Hunters to come out of the door. If you hit the trigger, just kill the Hunters with the FRG.
 
-#### *On legendary, no inf. camo*
+### *On legendary, no inf. camo*
 
 Grab the fuel rod gun after you kill the two invisible elites and four grunts. As you enter the next room, stick the elite to your upper left as you run by. Run directly to the next door and kill the two jackals and brute. Immediately head through the next door and kill the jackal sniper to your right. This will cause an elite to mount the turret on the bridge. This next sword fly will skip the hunters and elites that come out of the far door. The sword fly needs to be very high, so stay as close to the door you just went through and preferably jump before and while you sword fly. You must sword fly off of the turret in order to fly past. The video \[5:02 - 5:30 in video\] shows an example of this process.
 

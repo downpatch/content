@@ -7,7 +7,7 @@ discord: https://haloruns.com/discord
 
 The HaloRuns API is entirely contained in the subdirectory `/api/`. There are some conventions that multiple API calls follow.
 
-# Level IDs
+## Level IDs
 
 Each level on HaloRuns can be referred to by a 4-character string of numerals. This string is produced by concatenating the number of the game that the level occurs in with the level's number within that game. For example, Tip of the Spear in Halo: Reach's ID is `0504`.
 
@@ -131,7 +131,7 @@ Each level on HaloRuns can be referred to by a 4-character string of numerals. T
 | The Breaking         | 11     |
 | Guardians            | 12     |
 
-# API Calls
+## API Calls
 
 ## Global Modifiers
 
@@ -139,11 +139,11 @@ Each level on HaloRuns can be referred to by a 4-character string of numerals. T
 
 Specifies how the API call's response will be formatted.
 
-##### json
+### json
 
 JSON format. Example: <https://haloruns.com/api/request?query=recentRuns&format=json>
 
-##### prettyjson
+### prettyjson
 
 JSON format, where each item in the object is a pretty printed string. Example: <https://haloruns.com/api/request?query=recentRecords&format=prettyjson>
 
@@ -171,7 +171,7 @@ Returns the current records for the level specified by `GET[level]`. If `GET[isC
 
 Returns a list of the most recent verified world records submitted to the site. If `GET[limit]` isn't specified as a number below 50, the 50 latest records are returned.
 
-##### default
+### default
 
 If GET\[format\] isn't specified, then a comma-separated list of pretty-printed run descriptions is returned.
 
@@ -181,7 +181,7 @@ If GET\[format\] isn't specified, then a comma-separated list of pretty-printed 
 
 Returns a list of the current streams being displayed on the HaloRuns homepage. This list is updated every 5 minutes.
 
-##### default
+### default
 
 If GET\[format\] isn't specified, then a comma-separated list of HaloRuns usernames is displayed.
 

@@ -114,7 +114,7 @@ When you reach the trucks get in and drive to the first structure, there will be
 
 For the OOB part there are multiple ways to do it, explained [here](https://www.youtube.com/watch?v=XFtSessjtqI).
 
-#### First Spirit OOB
+### First Spirit OOB
 
 - Intermediate/World Class/IL Record Strategy
 
@@ -126,7 +126,7 @@ Wait with your falcon hovering over the big three that is near the right side of
 
 ------------------------------------------------------------------------
 
-#### Marine Spirit OOB
+### Marine Spirit OOB
 
 - Beginner
 
@@ -152,19 +152,19 @@ Once you load the relay outpost, do not land in there. Instead, stay out of boun
 
 You will now need to deload the outpost to progress the mission. Two deload methods exist.
 
-#### Initial Area Deload
+### Initial Area Deload
 
 This is the most consistent method of deloading the outpost, however this route can be difficult if you are on controller and plan to do Kat deload.
 
 You will want to fly back to the initial area and hover over a small rock. Otherwise, when you load in the outpost, run inside. Once the "Fallback into Outpost" text appears, melee 5 times to deload the door. Stand a small amount away from the door, or you may splatter upon the new area loading in.
 
-#### Truck Deload
+### Truck Deload
 
 This method is not too inconsistent, but if performed incorrectly, can deload the falcon. Follow this [tutorial.](https://youtu.be/LY5EddUTQFs?feature=shared&t=162)
 
 You will want to fly back to the truck area at a height roughly between 215 and 230. Watching the tutorial here is suggested, as it is quite difficult to explain. Once you load in the old area, follow the steps as mentioned on the [initial area deload section](#Initial_Area_Deload).
 
-#### Kat Deload
+### Kat Deload
 
 - World Class/IL Record Strategy
 
@@ -188,19 +188,19 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
 - [Start Building Skip](https://www.youtube.com/watch?v=mbNkr3qUxKo) Unknown, 2010. Replaced by barrier jumps.
 - [Falcon Teleport](https://youtu.be/GkzcPZcm7Is?feature=shared&t=199) Unknown, 2015. Replaced by early falcon grab
 - [Soft Falcon Grab](https://youtu.be/sbeuC9ORlRc?feature=shared&t=257) Wolfy, 2015. Replaced by faster falcon grab
 - [Early Marine Group OOB](https://youtu.be/mbNkr3qUxKo?feature=shared&t=240) Unknown, Unknown. Replaced by Early Spirit OOB
 
-#### Potential Strategies
+### Potential Strategies
 
 - [Window Jump](https://youtu.be/0HtDU2-F_98) SleeplessBlue, Feb. 2018. Difficult, but can be implemented
 - [Ezhno Launch](https://www.twitch.tv/dyse/clip/PowerfulKitschyDunlinPeteZarollTie) Ezhno, Dec. 2019. Difficult, but can be implemented
 
-#### Knowledge Base
+### Knowledge Base
 
 - [Gpro's Spiritless OOB](https://youtu.be/doTrN_SDhE8?feature=shared) Gpro, June 2018. Potential OOB area
 

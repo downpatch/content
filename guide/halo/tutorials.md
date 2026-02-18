@@ -7,83 +7,83 @@ discord: https://haloruns.com/discord
 
 If you’re looking for tutorials on Halo speedrunning, you’ve come to the right place! Check out some of the tutorials below. (Please note that some tutorials may be outdated, so be sure to use what you learn and watch the World Record videos over at Haloruns.com for the most up-to-date strategies.)
 
-# Halo: Combat Evolved
+## Halo: Combat Evolved
 
-#### Easy
+### Easy
 
 [Chronos' Trick Tutorial Playlist](https://youtu.be/gV3L8D8mEAg?si=ExmnV9eOldCty3bm)
 
 [Chronos' Full Game Easy Tutorial](https://www.youtube.com/watch?v=9MrLMGA6NOA)
 
-#### Legendary
+### Legendary
 
 [Garish Goblin's Full Game Legendary Tutorial](https://youtu.be/TPjMliATP7A?si=6HU3_8oCuilDGNGN)
 
-# Halo 2
+## Halo 2
 
-#### Easy
+### Easy
 
 [MisterMonopoli's Easy Text Document](http://pastebin.com/qSfuGSiv)
 
-#### Legendary
+### Legendary
 
 TBD
 
-# Halo 3
+## Halo 3
 
-#### Easy
+### Easy
 
 [Sorix's Easy Guide](https://youtu.be/DYuACru0NIk)
 
 [Chronos' Easy Guide](https://youtu.be/9zwAYgNVhDQ)
 
-#### Legendary
+### Legendary
 
 [Sorix's Legendary Guide](https://youtu.be/hVIUaGI4qnA?list=PLDV86urNR5-BzeII81Bm33ADM97loTh63)
 
-# Halo 3: ODST
+## Halo 3: ODST
 
-#### Easy
+### Easy
 
 [Xero's Easy Guide](https://www.youtube.com/watch?v=GEJdA8hQF4U)
 
-#### Legendary
+### Legendary
 
 [Yev's Legendary Playlist](https://www.youtube.com/playlist?list=PL_ks3ZvU4eYwc-ZYihpoxltNwugcC2yQr)
 
-# Halo: Reach
+## Halo: Reach
 
-#### Easy
+### Easy
 
 [Zephrike's Easy Full Game Guide](https://youtu.be/C9aUjBsQ6mc)
 
-#### Legendary
+### Legendary
 
 [Zephrike's Beginner Legendary Playlist](https://www.youtube.com/playlist?list=PL5v5iGH4d6AeZ63iPgnrhBT5ZSbJEDNjf)
 
-# Halo 4
+## Halo 4
 
-#### Easy
+### Easy
 
 [VyPr's Trick Playlist](https://www.youtube.com/playlist?list=PLC5agN1Np3dDifmlj6hgYYT1if0gbAcuv)
 
-#### Legendary
+### Legendary
 
 TBD
 
-# Halo 5: Guardians
+## Halo 5: Guardians
 
-#### Easy
+### Easy
 
 [Hoshka's Easy Tutorial Playlist](https://www.youtube.com/playlist?list=PLSC0NoL_QI5ltrzwUeB-Fy-bD-EBBwyuJ)
 
-#### Legendary
+### Legendary
 
 [Legendary Commentated Run](https://www.twitch.tv/videos/563818896)
 
-# Halo Infinite
+## Halo Infinite
 
-#### General Tutorials
+### General Tutorials
 
 [Dyse Full Game Tutorial Part 1](https://www.youtube.com/watch?v=LSmUvyboIDA)
 

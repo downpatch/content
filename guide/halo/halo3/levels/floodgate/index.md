@@ -30,7 +30,7 @@ Pick up the spike grenades and throw one spike grenade behind the weapon crate a
 <figcaption>A player performing the Cortana Skip.</figcaption>
 </figure>
 
-#### *Cortana Skip*
+### *Cortana Skip*
 
 A cortana moment will activate if you fall into a trigger volume in this room. The trigger volume only extends to about head-height above the floor, so as long as you stay above that height you won't trigger the cortana moment. The most common method to perform this skip is to jump onto the closest weapon crate on the left side of the room, then bank a frag grenade off the white label on the other weapon crate and jump so that you move the crate and land on it by the door. You can then crouch and walk forward and off the crate to skip the cortana moment. There are other ways to do this skip and it is possible to do it without any grenades or hammer swings.
 

@@ -59,11 +59,11 @@ The second locked door on this floor opens halfway and then stops for a time. On
 
 Before you reach this door, make sure you delay a checkpoint just before the door. This is done by making sure not all of the enemies not including popcorn flood are dead in the tunnel before, but if they all are, make sure you keep jumping to delay it. Then throw a plasma at the end of the hallway just before the door. Once it explodes, you should get a checkpoint.
 
-#### Legendary
+### Legendary
 
 There are three flood lined up horizontally against the door. Throw a grenade either to the far right side of the door or in between the farthest two flood at the right. Then shoot your pistol at the door and shoot the farthest left flood in the chest twice such that its body will fall perpendicularly to the door, note that the flood falls at a slight angle when it dies. If it is a reviver, stand on top of the dot on its body right up against the door. If done correctly, you will get bumped into the door. Then jump through the door. If it isn't a reviver, revert to last checkpoint and try again.
 
-#### Easy
+### Easy
 
 There are two flood lined up horizontally against the door. Throw a grenade at the far right side of the door. Then you have two scenarios. If the other flood is at the left side of the door shoot at the door then shoot once the flood once at the chest. Use the same line ups as the one on legendary. If the flood is at the center of the door, circle around to the right side of the door and line up with the flood such that the center of the flood's body is with the long vertical line at the left corner of the door closest to where you enter. Make sure you are not too close to the flood or it will go to melee you. Then shoot the door once then shoot the flood after it turns towards you. Stand on the flood's shoulder which is against the door. If done correctly, you will bump through the door. If the flood is not a reviver, revert to last checkpoint and try again.
 

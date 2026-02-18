@@ -7,7 +7,7 @@ discord: https://haloruns.com/discord
 
 Halo speedrunning tools greatly enhance practice by enabling features like trigger volume viewers, checkpoint control, and AI freezing. These tools let runners efficiently practice difficult sections, refine strategies, and improve consistency, speeding up overall skill development and time improvement.
 
-# Global Tools
+## Global Tools
 
 The below sections will link and describe tools that can be used in any game category.
 
@@ -102,7 +102,7 @@ These tools can be found in [Steam.](https://store.steampowered.com/app/1532190/
 
 [Avidemux](https://avidemux.sourceforge.net/download.html) is a free video editor designed to make simple cuts and tweaks to video clips. This program is great for quick retiming of a run that uses the Real-Time-Attack (RTA) timing method.
 
-# Game-Specific Tools
+## Game-Specific Tools
 
 The below sections will link and describe tools that are used for one specific game or category, including checkpoint libraries.
 

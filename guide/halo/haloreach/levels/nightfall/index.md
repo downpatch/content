@@ -29,11 +29,11 @@ Follow the linked video [here](https://youtu.be/xiHSMyERwuQ?si=wn6O-PDlwBWZIZrj&
 
 There are two methods to do this slide. They are the same speed and difficulty, and would suggest trying both to see what method works best for you.
 
-#### Boulder Edge Method
+### Boulder Edge Method
 
 Follow the sprint cycles mentioned in this \[tutorial\]. You will want to start sprinting once you crest the hill and are on the flat ground. Once you pass the bush on the ground, jump on the rock in front of you. Once you take a single step, jump straight forward. You will want to hit the very edge of the large boulder to get an edge slide, making sure to cancel sprint and crouch to not overshoot the rock. Jump and uncrouch as you hit the edge.
 
-#### Flat Rock Method
+### Flat Rock Method
 
 Same as the [boulder method](#Boulder_Edge_Method), jump at the bush and take one step on the rock, however, there is no need to cut sprint for this slide. Simply \[aim here\] while in sprint, and jump once you hit the rock. If you are overshooting the rock and hitting the ground, take a half step instead of a full step after you jump past the bush.
 
@@ -81,11 +81,11 @@ Tutorial/Example:
 
 ### Additional Slides
 
-#### Post Militia Slide
+### Post Militia Slide
 
 Example:
 
-#### Pre-Firefight Slide
+### Pre-Firefight Slide
 
 Example:
 
@@ -99,13 +99,13 @@ This section of the run is the major differentiator between top level runs and i
 
 There is a gap in the gate that by using the forklift in the correct position allows for the player to clip to the other side of the gate. This allows for the player to skip the entirety of the firefight sequence. There are two set up methods for clipping the gate with the forklift.
 
-#### Yolo Clip
+### Yolo Clip
 
 - World Class Strategy
 
 This is the fastest method of forklift clip. Once you get inside the forklift, aim your reticle at \[this location\]. Once you get to the edge of the concrete by the door, turn to be parallel, flat against the gate. Get out and you will clip through. If you fail the clip, refer to the line up for [consistent clip](#Consistent_Clip).
 
-#### Consistent Clip
+### Consistent Clip
 
 - Beginner/Intermediate Strategy
 
@@ -115,7 +115,7 @@ Same entry as the [yolo clip](#Yolo_Clip), however before you exit the forklift,
 
 - IL Record Strategy
 
-#### Gate Jump
+### Gate Jump
 
 This is a backup method for [the APL](#Jun_APL) if you launch past the forklift but not over the gate. Follow \[this route\], throw the grenade at your feet, and perform a curve jump right as the grenade is about to go off. Proceed with grabbing the sprint as usual.
 
@@ -125,10 +125,10 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
-#### Potential Strategies
+### Potential Strategies
 
-#### Knowledge Base
+### Knowledge Base
 
 R-03

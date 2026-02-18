@@ -7,7 +7,7 @@ discord: https://haloruns.com/discord
 
 If you are new to Halo speedrunning, these are some tricks, techniques and game mechanics that are widely applicable to the Halo series.
 
-# Basic Tricks
+## Basic Tricks
 
 ## Combat Techniques
 
@@ -138,7 +138,7 @@ In order to delay a checkpoint, the player can melee, jump, have no shields, rec
 
 Note that in Halo: Combat Evolved, checkpoints work differently than in other games. Checkpoints can be delayed by jumping, throwing a grenade, and shooting with the Banshee or Ghost. A checkpoint can still happen if the player has no shields, and this can be extremely dangerous if enemies are around when the checkpoint occurs.
 
-# Advanced Tricks
+## Advanced Tricks
 
 The following are tricks that are more difficult to do.
 

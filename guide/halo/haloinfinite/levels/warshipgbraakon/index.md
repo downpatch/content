@@ -28,15 +28,15 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
 WiP, section for documenting old strategies.
 
-#### Potential Strategies
+### Potential Strategies
 
 WiP, section for documenting potential strategies not in the current route.
 
-#### Knowledge Base
+### Knowledge Base
 
 WiP, documentation of interesting information such as trigger volumes, interesting speed tech, or level information.
 

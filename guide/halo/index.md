@@ -55,9 +55,9 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [Halo Spartan Strike](halospartanstrike)
 - [Halo 4 Spartan Ops](halo4spartanops)
 
-# Level Quick Links
+## Level Quick Links
 
-## Halo Combat Evolved
+### Halo Combat Evolved
 
 - [The Pillar of Autumn](haloce/levels/thepillarofautumn)
 - [Halo](haloce/levels/halo)
@@ -70,7 +70,7 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [Keyes](haloce/levels/keyes)
 - [The Maw](haloce/levels/themaw)
 
-## Halo 2
+### Halo 2
 
 - [The Armory](halo2/levels/thearmory)
 - [Cairo Station](halo2/levels/cairostation)
@@ -87,7 +87,7 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [High Charity](halo2/levels/highcharity)
 - [The Great Journey](halo2/levels/thegreatjourney)
 
-## Halo 3
+### Halo 3
 
 - [Sierra 117](halo3/levels/sierra117)
 - [Crows Nest](halo3/levels/crowsnest)
@@ -99,7 +99,7 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [Cortana](halo3/levels/cortana)
 - [Halo](halo3/levels/halo)
 
-## Halo 3 ODST
+### Halo 3 ODST
 
 - [Prepare to Drop](halo3odst/levels/preparetodrop)
 - [Mombasa Streets](halo3odst/levels/mombasastreets)
@@ -118,7 +118,7 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [Data Hive](halo3odst/levels/datahive)
 - [Coastal Highway](halo3odst/levels/coastalhighway)
 
-## Halo Reach
+### Halo Reach
 
 - [Winter Contingency](haloreach/levels/wintercontingency)
 - [ONI Sword Base](haloreach/levels/oniswordbase)
@@ -131,7 +131,7 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [The Pillar of Autumn](haloreach/levels/thepillarofautumn)
 - [Lone Wolf](haloreach/levels/lonewolf)
 
-## Halo 4
+### Halo 4
 
 - [Dawn](halo4/levels/dawn)
 - [Requiem](halo4/levels/requiem)
@@ -142,7 +142,7 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [Composer](halo4/levels/composer)
 - [Midnight](halo4/levels/midnight)
 
-## Halo 5 Guardians
+### Halo 5 Guardians
 
 - [Osiris](halo5/levels/osiris)
 - [Blue Team](halo5/levels/blueteam)
@@ -157,7 +157,7 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [The Breaking](halo5/levels/thebreaking)
 - [Guardians](halo5/levels/guardians)
 
-## Halo Infinite
+### Halo Infinite
 
 - [Warship Gbraakon](haloinfinite/levels/warshipgbraakon)
 - [Foundation](haloinfinite/levels/foundation)
@@ -175,7 +175,7 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [House of Reckoning](haloinfinite/levels/houseofreckoning)
 - [Silent Auditorium](haloinfinite/levels/silentauditorium)
 
-### Banished Outposts
+#### Banished Outposts
 
 - [Armory of Reckoning](haloinfinite/levels/armoryofreckoning)
 - [Annex Ridge](haloinfinite/levels/annexridge)
@@ -185,7 +185,7 @@ Check the list of [recent world records](https://haloruns.com/records/recent).
 - [Ransom Keep](haloinfinite/levels/ransomkeep)
 - [Riven Gate](haloinfinite/levels/rivengate)
 
-## Miscellaneous
+### Miscellaneous
 
 - [History of Halo Speedrunning](history)
 - [Past Relays, Marathons, and Events](events)

@@ -75,16 +75,16 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
 - [Hog Route to Camo](https://youtu.be/vEl3T_bU5ww) Netjive8, Nov. 2017. Obsolete by Ghost Grab.
 
-#### Potential Strategies
+### Potential Strategies
 
 - [Camo Clear Ghost Jump](https://youtu.be/F-taVW_D2Lo?si=3SgcqByizsEaEhvj) Bliny, Jan. 2025. Difficult, but would save around 8 seconds.
 - [Nading the Late Banshee Closer](https://www.twitch.tv/videos/780100934) ProAceJoker, Oct. 2020. Saves 5 seconds over current route (Apr. 2025), but would be slower than early banshee on legendary.
 
-#### Knowledge Base
+### Knowledge Base
 
 - [Clipping speed at Camo Clear](https://youtu.be/7oa5jJtwxoI) VyPr, Nov. 2022. No use, more for documentation purposes.
 - [BOOL Clip back in bounds](https://youtu.be/CVxBgmY6_bA) Danza, Oct. 2018. This clip was the foundation for what is now known as Extended BOOL.

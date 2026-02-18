@@ -17,13 +17,13 @@ Immediately upon spawning, turn right and grab the two Plasma Rifles from the co
 
 https://youtu.be/3fR72ajdO7s Example
 
-#### The Enforcers
+### The Enforcers
 
 When you come across the large room with four 'Plug Locks' as pictured in the Level Image, you needn't kill the enforcer; It explodes along with all the other Sentinels if you simply shoot or activate all the plug locks followed by the panel that pops up on the front of the gondola. After a respite, the gondola reaches the other side with a similar room, with Flood and Forerunner enemies. The only one that needs to die is the Enforcer, so shoot it's 'arms' off with a Carbine when it comes into sight and then kill it with Plasma Grenades. Head out through the slatted door that opens when it dies.
 
 Beyond this, there are no more enemies that need to die until you get outside. Simply move through the following rooms as quickly as you can, picking up a Battle Rifle on the floor in the large open room (if it spawns), and then the sword to the right in the final room before you get out.
 
-#### The Fight
+### The Fight
 
 Once outside, you can perform one of a few different swordflies across the pitfall directly ahead, spawns permitting. Otherwise, just walk across through the cylindrical walkway to the right. A bit further on lies the final area of the mission, in which you and Halfjaw hold out against waves of Flood. There are five Combat Forms initially in the area. Kill them and Halfjaw will move to a specific spot and say "Arbiter, what are you doing here?", at which point the waves will begin. Focus the Combat Forms; The Carrier Forms do not matter. When you hear/see the Phantom coming, it is best to kill anything remaining as sometimes the end of the level is delayed because the Phantom turrets are aggro'd to Flood.
 

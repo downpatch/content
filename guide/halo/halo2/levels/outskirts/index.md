@@ -21,7 +21,7 @@ The first thing you want to do is get out of bounds. Grenade-jump onto the steel
 
 Follow the route in the world record video and head over the rooftops to Hotel Zanzibar. If you miss a jump, there's usually a slower backup route. Alternatively, you can revert to last checkpoint if you miss a jump. Just make sure to keep track of where your checkpoints were received.
 
-#### *Legendary*
+### *Legendary*
 
 The strategy for this section on Legendary is no different than the Easy difficulty strategy.
 
@@ -65,15 +65,15 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
 - N/A
 
-#### Potential Strategies
+### Potential Strategies
 
 - N/A
 
-#### Knowledge Base
+### Knowledge Base
 
 - N/A
 

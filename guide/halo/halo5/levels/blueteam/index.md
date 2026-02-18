@@ -23,21 +23,21 @@ Start off by running and jumping off the small extension of the white pillar dir
 
 ## Easy
 
-#### Hunters
+### Hunters
 
 If you manage to assassinate the invisible sword elite before the elevator, you will be able to grab his 100% sword which is helpful for the hunters. It only takes two sword hits in the weak spot on their back to kill a hunter on easy. However, when you kill a hunter the other will sometimes berserk and not let you near their back. So to avoid this you can sword the first hunter once and assign your team mates to finish him off while you kill the second one, ensuring the second one doesn't berserk. Hitting their fleshy red spot can be tricky sometimes but you know you hit it when you get red hitmarkers indicating a critical hit. Also be sure to use your melee button rather than your shoot button for faster sword hits.
 
-#### Reactor Room
+### Reactor Room
 
 After entering the reactor room, you need to kill everything in the far room to activate the button. You should see two elites near the entrance of this section, ground pound one of them and sword the other, then run and sword the six elites and clean everything else up with either a shotgun or the hydra. After everything is dead you can push the button. However if you push it the second it becomes active, you will sometimes not get the dialogue and the elevator will take an extra 15 seconds to move. After going down the elevator you can ground pound onto the platform containing a fuel rod. Grab the fuel rod, and proceed to push the button and destroy the eight vents with fuel rods and or rockets and finish off the last few with banshee bombs. You can push down on the D pad to reveal any vents not yet destroyed. Once they are all destroyed you can proceed with the banshee.
 
-#### Flying the banshee
+### Flying the banshee
 
 Fly your banshee under the platform where you are intended to go and fly back up so you are now behind the wall under the hallway. Follow the hallway in the banshee until you reach the hallway beside the final room. Stay under the hallway until you hear master chief say "We're taking a prowler". Now you can fly in through the far left side of the ceiling. Entering too close to the door will cause you to teleport inside and lose your banshee. Also beware of the kill barrier above the prowler. Once you successfully manage to get inside the room you need to trigger the big door to open by flying your banshee in front of it, banshee bomb the sword elite and fly to where the hunter will later spawn and park the banshee against the wall. Melee it 2 or 3 times to move it slightly away from the wall and this should be good to block the hunter from jumping into the map.
 
 <img src="/content/guide/halo/assets/wiki/BTbanshee.PNG" title="BTbanshee.PNG" width="300" alt="BTbanshee.PNG" /> <img src="/content/guide/halo/assets/wiki/BTfinalroom.PNG" title="BTfinalroom.PNG" width="300" alt="BTfinalroom.PNG" /> <img src="/content/guide/halo/assets/wiki/BThunter.PNG" title="BThunter.PNG" width="300" alt="BThunter.PNG" />
 
-#### Final Room
+### Final Room
 
 After pushing the button, grab the saw. The rest of this mission is mainly just spawn killing waves of enemies.
 

@@ -54,7 +54,7 @@ Just like Dawn Skip 2022 Method, this is even more technical and is suggested to
 
 There will still be short overviews of each section below:
 
-#### Out of Bounds Clip
+### Out of Bounds Clip
 
 This initial out-of-bounds was discovered by Harc when the Acrophobia skull was first added to the game.
 
@@ -62,7 +62,7 @@ For a quick technical explanation: every time you crouch and uncrouch while in t
 
 Note: There is a relatively new corner cut right after the out-of-bounds, which you can see an [example of here.](https://youtu.be/t_dW56UbQcQ)
 
-#### Elevator Climb
+### Elevator Climb
 
 After hitting the elevator load, there are two options to ascend the elevator.
 
@@ -157,7 +157,7 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
 - Spring Jump DSS OOB, Feb. 2023. Replaced by the edge jump OOB method.
 - [Cordi's Dawn Skip Tutorial](https://youtu.be/QjI6ruKl11I?feature=shared) Cordiaxiz, Apr. 2022. Replaced by Dawn Skip 2022 Method.
@@ -166,13 +166,13 @@ Throughout the development of this level, there have been many strat discoveries
 - [Skull Kid's Dawn Skip Method](https://youtu.be/LBwQo_uAx-E?feature=shared) Skull Kid, Aug. 2018. Alternative full game variation, replaced by Cordi's Method.
 - Original Dawn Skip, May. 2016. Was originally done with skulls, was implemented first by sun100 in Co-op.
 
-#### Potential Strategies
+### Potential Strategies
 
 - Dawn Pressure Launch \#1 Harc, Aug. 2023. No video currently, involves a pressure launch off a pipe when traversing over the didact room after DSS.
 - VyPr's Sketchy Fall, Apr. 2023. Difficult, can only be used with DSS.
 - Co-op Spawn Launch, Feb. 2023. Unknown reason for launching, would save time.
 
-#### Knowledge Base
+### Knowledge Base
 
 - Dawn Pressure Launch \#2, Feb. 2023. Has no utility in current route, but could have use with the Dawn Skip 2022 Method.
 - Ending Cutscene in 3rd Person, Nov. 2022. A perfectly timed death allows for a player to watch the cutscene in third person (co-op only).

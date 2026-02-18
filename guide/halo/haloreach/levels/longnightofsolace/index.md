@@ -30,13 +30,13 @@ Within the levels 4 main locations, the players main objectives involve:
 - Assaulting the Corvette's bridge and setting it on a refueling course for the Covenant Super-Carrier, *Long Night of Solace*, and  
 - Defending the Pelican's Slipspace Bomb from attacking Covenant  
 
-#### The Beachhead & Sabre Facility
+### The Beachhead & Sabre Facility
 
 This level begins at the far side of the Beach, but can be sped up considerably with a challenging enemy combat trigger skip that requires you to very quickly kill an Elite Ultra that spawns from a Covenant Drop Pod. When you can see the first group of grunts, scope in with your Magnum and try to find a grunt with a Plasma Pistol. Make sure the grunt doesn't have a Needler though, as they're capable of spawning with a Needler as well. As soon as you're sure the grunt has a Plasma Pistol, take him out and swap out your Assault Rifle for the Plasma Pistol. You need to keep your Magnum to ensure you can take out the Elite Ultra further up on the Beach. Immediately head up the Beach to the Sabre Facility entrance where the Elite Ultra's Drop Pod spawns. If you're quick, you should be only a few meters from the Drop Pod when it lands. When you hear the telltale sound of the Drop Pod coming down to land, begin charging your Plasma Pistol. When it lands, wait for the Drop Pod's hatch to blow off, and as soon as you can see the Elite Ultra in his drop pod, release your overcharge and pull out your Magnum. You may need to fire a second earlier to accommodate for the travel time of the overcharged shot. Shoot him in the head immediately, before he can land on the Beach and begin to move. If done correctly, the Ultra will die before he causes the other enemies to be included in the normal trigger for opening the Sabre Facility door and the door to the Facility will open early. When moving through the Facility, be sure to grab both a DMR and the Energy Sword off the dead Elite; both of which are necessary later in the level.  
 
 Difficulty notes: On Easy, the Beach skip is relatively simple. On Legendary however, you may need to kamikaze the Beach due to the increased number of enemies, as well as the fact that you'll die much more quickly, making the skip itself much harder purely because you're likely to die before even getting to the far end of the Beach.  
 
-#### The Defense of Anchor 9
+### The Defense of Anchor 9
 
 On Easy you'll need to follow the Sabre flight tutorial prompts to actually get the rest of the mission underway. On Legendary you don't need to worry about it.  
 
@@ -46,13 +46,13 @@ When you're notified of approaching Phantoms (based on enemies destroyed), disre
 
 Difficulty notes: The basic approach to this section is the same for both Easy and Legendary, but you'll face much more resistance on Legendary and will have a harder time outmaneuvering enemies.  
 
-#### The Exterior Assault on the Corvette
+### The Exterior Assault on the Corvette
 
 After the cutscene, immediately boost down towards the Corvette. On your way down, switch to your Missiles and take out one of the Corvette's engines, preferably the one closest to you. When you're close to the Corvette, aim further down so that you'll fly directly under the ship and if you look up, you'll see many Banshees attached to the bottom of the Corvette. Try and take as many down as you can before they detach from the Corvette and disperse. After the Banshees are dealt with turn around and head for the stern (rear) of the Corvette and take out the remaining engines as quickly as you can. When they've been destroyed, numerous Seraphs will jump in to assist the Corvette. A good idea is to co-ordinate your fire with the UNSC Savannah's; the Savannah's main cannons do a very good job of tracking the Seraph's and taking down their shields in a very short amount of time, so with co-ordinated cannon/missile fire you can easily take out Seraphs one after the other. Once they're all destroyed, approach on the Corvette's top-side landing pad to continue the mission.  
 
 Difficulty notes: On Easy this section's relatively tame, and the only real problem you may face is from the Corvette's plasma torpedoes. On Legendary the same applies, however they'll decimate your shields in 2-3 shots, and kill you in another 2-3. The Seraphs are also a concern and co-ordinating with the Savannah to destroy them is crucial; you don't want to have 3 Seraphs targeting you when the Savannah's on the opposite side of the area.  
 
-#### The Infiltration of the Corvette
+### The Infiltration of the Corvette
 
 After you've landed, pull out your Energy Sword and sprint for the blue shield. Make sure not to jump, as you'll be in the air for quite some time due to the lack of gravity. Stop sprinting right before you fall into the shield and look down. You should see a Elite Ranger preparing to jump up to the surface to the Sabres. If you time it right, you can hit him with your Energy Sword on your way down AND land on the top level of the room, allowing easy kills on the other three Ranger Elites in the Comms Room. When you enter the Hangar, take out the Engineer that is flying around as soon as you can with your DMR, otherwise you'll have to keep attacking overshielded enemies, while sustaining heavy damage. The most efficient way to take care of the enemies in the room is with melees (on easy), as 1-2 hits will kill a grunt, and a single sword swipe will kill an Elite. Also keep in mind that jumping is detrimental still due to the lack of gravity, and shooting the grunts is slow due to their helmets. There should be one elite that has a Needle Rifle instead of a Plasma Repeater that hangs around near the rear of the room and the Hangar's Shield Control button. After you've killed all the enemies immediately jump up to the button before the gravity turns back on and trigger it to progress to the next part of the mission.  
 

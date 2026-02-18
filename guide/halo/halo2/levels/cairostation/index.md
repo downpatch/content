@@ -115,15 +115,15 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
 - N/A
 
-#### Potential Strategies
+### Potential Strategies
 
 - N/A
 
-#### Knowledge Base
+### Knowledge Base
 
 - N/A
 

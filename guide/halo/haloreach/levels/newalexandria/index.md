@@ -27,13 +27,13 @@ Other vehicles flying around include Pelicans and Phantoms, but they are pretty 
 
 These are the three objectives you are guaranteed to get in each playthrough of this mission. Each one involves you fighting through some enemies in order to overload some communication jammers. Fortunately for you, the "fighting" part is optional. Their order is random, except the Hospital is always the first objective on Easy *only.* You can tell where to go before seeing a waypoint by the dialogue that precedes it.
 
-#### The Hospital
+### The Hospital
 
 **Kat:** "*Standby Six. One of our trooper squads went silent after the Hospital got hit. I'll mark the location. Complete their mission and take out the jammer.*"
 
 The Hospital is the tall building in the northeast corner of the area. It is easily identified by the small blue sign on it. On Easy, this objective is as easy as running in, overloading the jammer, and running out. On Legendary, however, things aren't so simple. There are tons of enemies in the first staircase room and the long hallway to the jammer, and there are lots and lots of Elite Rangers that arrive on the way out. All of this can be skipped, however, with the help of the famous Banshee skip. Note that the Banshee skip is the fastest approach to this area, so it should always be used in an IL run of this mission, even on Easy.
 
-##### The Banshee Skip
+### The Banshee Skip
 
 Step one of the Banshee skip is the hardest by far: obtain a Banshee. There are two main methods of doing this. The faster and very risky method is to perform a midair hijack directly from your Falcon. The safer method is to shoot one down. Start by killing the two Marines on your Falcon's side turrets. You'll get new ones after the Hospital, and you don't want them shooting your Banshee while you're trying to hijack it. Next, locate the Banshee you'll want to take. This seems obvious, but the randomness of their spawns can make it harder than you might think. If you're performing this trick at the very beginning of the mission, look around the edges of the map. Your Falcon's radar has exceptional range so watch it carefully. If you're looking for a Banshee midway through the mission, the best place to look is behind you. Chances are, there are five or six of them following you. Now comes the hard part.
 
@@ -45,7 +45,7 @@ So, now that you have a Banshee, you can fly to the Hospital and land it by the 
 
 **IMPORTANT!!!!!** This trick will only work if the Hospital is the first or second main objective you receive. If it is the third one, DO NOT get back into the Banshee after overloading the jammer! You will not teleport outside, and the door to exit will lock, trapping you inside. You can still fly into the building, but stay out of the Banshee after disabling the jammer. Even if you end up receiving it last in a full game Legendary run, it is highly recommended to snag a Banshee and fly inside as it allows you quickly reach the jammer and skip a large number of spawns in the process, including the Rangers that normally arrive.
 
-#### Sinoviet
+### Sinoviet
 
 **7D19:** "*Mayday, mayday, 7 Delta 1 Niner to all UNSC forces.*"
 
@@ -61,7 +61,7 @@ This is the easiest main objective of the three. Normally, you'd have to fight o
 
 Take the left elevator to the top of the tower. Sprint to the jammer and overload it. Suddenly, a bunch of Drones will appear. Ignore them and sprint immediately back to your elevator before they even have time to be aware of your presence. Even on SLASO, sprinting to the elevator is perfectly safe. After that, fly the Falcon out of the building the same way you came in and move on.
 
-#### Vyrant
+### Vyrant
 
 **4C27:** "*4 Charlie 27 to command. Request immediate assistance.*"
 
@@ -79,11 +79,11 @@ The easiest way to enter the tower is to kill the Shades, fly the Falcon directl
 
 Two of these are chosen at random for you to complete in each playthrough. There are a total of 12 side-objectives, divided into 4 groups of 3 based on what they are. For example, the helping Marines group involves saving Marines from some enemies, and the Buck group has all the escort missions. In an individual playthrough, you cannot get 2 side objectives within the same group. As I detail each side mission, I will state the fastest approach to each.
 
-#### Helping Marines
+### Helping Marines
 
 As the name suggests, these missions tell you to go assist some Marines in killing enemies. For all 3 of thee missions, the fastest way to complete them is to actually kill the Marines instead of the enemies. If you kill the enemies, you'll have to wait for a Pelican to slowly fly to the building, pick up the Marines, and fly away. This process can cost more than 30 seconds. So make sure to kill the Marines.
 
-##### Vs. Brutes
+### Vs. Brutes
 
 **1A3:** "*1 Alpha 3 to Command. Covies got us pinned down on a roof top. We need help pronto. Uploading the waypoint, over.*"
 
@@ -91,7 +91,7 @@ As the name suggests, these missions tell you to go assist some Marines in killi
 
 This objective is located NE of the ONI Tower, just outside the ring of structures that Shades are put on at the end. There are bright blue lit up signs with a very faint DEK on them. Note that this objective can be detected before the dialogue starts if you spot the Phantom that drops off the Brutes. It comes up from the bottom of the map next to the building.
 
-##### Vs. Hunters
+### Vs. Hunters
 
 **F21:** "*This is Foxtrot 21 on the DNBM Financial Tower, is anybody out there?*"
 
@@ -103,17 +103,17 @@ This objective is located NE of the ONI Tower, just outside the ring of structur
 
 This building is located immediately east of the Vyrant Tower. You can't miss it. Since it begins almost immediately and ends immediately if you kill the Marines, this is one of the fastest side objectives in the mission. There are no Phantoms that drop off the Hunters.
 
-##### Vs. Jackals
+### Vs. Jackals
 
 **7C40:** "*7 Charlie 40 to HQ, we've got incoming hostiles on top of the Maines-Traiger building. Requesting immediate assistance.*"
 
 This objective is located on the purple-lit tower to the west of the Hospital. There are several Jackals with PPs and Needlers, so be on watch for EMP shots. This is also an objective that has a Phantom dropping off the enemies before the dialogue starts, so check here if a side objective is taking a while to begin.
 
-#### 3 Enemies
+### 3 Enemies
 
 These side objectives all require you to kill three enemies. They are pretty quick for the most part if done well. None of them begin with a Phantom dropping off enemies, so they commence quickly.
 
-##### Shade Turrets
+### Shade Turrets
 
 **W39:** "*Whiskey 3-Niner requesting immediate assistance.*"
 
@@ -125,7 +125,7 @@ These side objectives all require you to kill three enemies. They are pretty qui
 
 This is a really good objective to receive as it is located right in the center of the 3 main objectives and goes very quickly. The FRG Shade Turrets are each located on one of three damaged towers surrounding a smaller one NE of Sinoviet and SW of the Hospital. Simply kill each one with the chain gun and fly away. Marine support also helps a lot to take them out.
 
-##### Banshees
+### Banshees
 
 **G27:** "*Golf 27 to HQ. We're on the Jonto building. Got Banshees all over us.*"
 
@@ -133,7 +133,7 @@ This is a really good objective to receive as it is located right in the center 
 
 The Jonto building is located to the north of the holy building (the large ring-shaped one). There are 3 Banshees circling the rooftop with Marines down below. You have to kill the Banshees whether the Marines survive or not. However, I recommend killing the Marines anyway before targeting the Banshees so that you don't have to wait for a Pelican to pick them up afterwards.
 
-##### Jackal Snipers
+### Jackal Snipers
 
 **O18:** "*Oscar 18 reporting. Just took out a jammer and we're waiting for evac but taking sniper fire.*"
 
@@ -141,29 +141,29 @@ The Jonto building is located to the north of the holy building (the large ring-
 
 The buildings you are looking for here are located at the far southeast corner of the city. You are more likely to see the Focus Rifle beams than the Jackals themselves, so aim for their sources. They will target you once you start shooting them or if the Marines all die, but they are not too threatening.
 
-#### Covenant Causing Trouble
+### Covenant Causing Trouble
 
 These missions have you killing a group of Covenant enemies on a single rooftop to halt their plans. These are overall kinda slow, especially on Legendary, but they are still better than some other objectives. It is best to have both of your Marines on your Falcon to assist in shooting.
 
-##### Elites and Engineers
+### Elites and Engineers
 
 **Kat:** "*Noble Six, we're getting reports of Elites and Engineers trying to break into the Misriah Complex. Take them out.*"
 
 The Misriah Complex is the purple-lit building directly in front of the south end of the Vyrant Tower. A Phantom drops off the Elites before the dialogue begins. The best approach to this one is to target all 3 of the Engineers first so that the Elites are not so menacing. Then finish the rest. The Elites carry Needle Rifles and FRGs, so watch out for those green fuel rods coming at you.
 
-##### Shades
+### Shades
 
 **Kat:** "*Noble Six, we've got an evac op being harassed by a Covenant Shade Turret. Neutralize it so we can get those people out of there.*"
 
 There are 2 FRG Shade Turrets, 3 FRG Grunts, and a Concussion Rifle Brute to kill on top of the ring-shaped holy building. This objectives goes by quickly, but can cost some time due to the fact it is so high and far away from everything else. Target the Shades and then the infantry. If you keep moving, you really shouldn't take any hits at all.
 
-##### Mobile Jammer
+### Mobile Jammer
 
 **Kat:** "*Six, Covies brought out a mobile jammer to mess with our short range. Sending you the waypoint. Go deal with it.*"
 
 The jammer can be found just west of Sinoviet. A Phantom drops it off along with the enemies before the dialogue starts. You have 5 Brutes carrying Needle Rifles and Concussion Rifles with 3 Grunts, one with a FRG. Overload the jammer like the others: get out and activate the button. While you might think you can just overload the jammer without killing enemies to complete the objective, you actually have to kill the enemies as well. So, target the Brutes and then the Grunts with your chain gun while the Marines help. The large number of needles being shot at you can deal a surprising amount of damage, so if you need to recover, descend below the rooftop so they can't get an angle on you. Then take out the jammer and get on your way.
 
-#### Buck Escort Missions
+### Buck Escort Missions
 
 These are the side objectives you *don't* want. The 3 escort missions require you to follow an invincible Falcon through the city for a considerable distance and time while a large swarm of Banshees shoot you. If you ever hear Buck's voice in a full game run, revert immediately. You will almost always have a CP just before the side objective is chosen, so a new one will be given to you. It is worth the revert to avoid these 1.5-2 minute missions that are extremely dangerous on Legendary.
 
@@ -171,7 +171,7 @@ In the event you are forced to do these side objectives, the best you can do is 
 
 There will inevitably be quite an army of Banshees coming at you during these missions, so use the advice I give at the beginning of this guide to deal with them. Shoot them at a distance and circle around buildings to avoid their fire. You can also lure them close to the Falcon you're escorting, and it will start to shoot them with the grenade launchers mounted on the sides.
 
-##### Phantom
+### Phantom
 
 **Buck:** "*Command, this is Gunnery Sergeant Buck of the 11th ODST, over.*"
 
@@ -181,7 +181,7 @@ There will inevitably be quite an army of Banshees coming at you during these mi
 
 The Falcon spawns north of Vyrant Tower, circling the building there. There is one checkpoint when the Falcon is NW of Sinoviet. Your destination is a building SSW of Sinoviet. When you arrive there, you have to blow up the Phantom to finish the objective. Once it is dead, you can leave.
 
-##### Pinned Squad
+### Pinned Squad
 
 **Buck:** "*Command, this is Gunnery Sergeant Buck of the 11th ODST, over.*"
 
@@ -193,7 +193,7 @@ The Falcon spawns north of Vyrant Tower, circling the building there. There is o
 
 The Falcon is found in the southeast corner of the city on a tall building with struts in the center. The first checkpoint is in front of Sinoviet. The second checkpoint is at the Misriah Complex (purple-lit building in front of Vyrant). Then it flies to the destination.
 
-##### Classified Op
+### Classified Op
 
 **Buck:** "*Command, this is Gunnery Sergeant Buck of the 11th ODST, over.*"
 
@@ -239,7 +239,7 @@ You can see this route in action in the Easy IL record of this mission.
 
 You might think "oh, I can be patient enough to IL this mission" at first glance. But trust me, luck manipulating the objectives is extremely difficult. The likelihood you will get all these objectives in the proper order is 1/648 on Legendary and 1/216 on Easy (since Hospital is always first on Easy but not on Legendary). You *will* get very frustrated with this mission unless you have impressive patience. You have been warned :P
 
-##### Banshee Manipulation
+### Banshee Manipulation
 
 When doing IL attempts, you need to know how to manipulate Banshee spawns so that they are consistent in your attempts and allow you to remove a major variable in the mission. When you first start the mission from the Campaign menu, get in your Falcon and fly a little to the right of the Hospital. Look for a pair of Banshees flying around near its entrance. If they are not there, save and quit, change a setting to delete your saved progress, and try again. If they are there, you can do attempts! The trick is to reset your attempts by selecting "Restart Mission" in the pause menu rather than saving and quitting and deleting the save. By restarting from the pause menu, the Banshee spawns remain exactly the same as before instead of being shuffled. This also wastes less of your time because there is less time between resets! :D The only negative of this is you'll have to go back into Theater Mode and record your run afterwards in a long film. You can alleviate this by periodically saving and quitting and then *resuming* without deleting your progress. Then restart the mission right away from the pause menu and keep doing attempts.
 

@@ -63,7 +63,7 @@ In the final indoor room with the lightbridge, it is possible to make the room e
 
 The level end triggers on this level are bizarre and were not well understood until very recently. There exist a few different strategies for getting the fastest ending trigger which vary by difficulty.
 
-#### Easy
+### Easy
 
 There are two techniques for a fast ending on easy, both of which are trivial to execute.
 
@@ -71,7 +71,7 @@ The first is simple: if your health is at 1 bar remaining and you run a straight
 
 The second method to get the fastest possible ending on Easy is to run a particular path around the final structure. You must run directly towards the structure, and once you reach it, turn left and run around the building in a circle. Once you pass two of the 'arms' of the structure the level should end.
 
-#### Legendary
+### Legendary
 
 Since neither the 1 health strategy or the "specific path" strategy mentioned above work on legendary, we must employ a third strategy.
 

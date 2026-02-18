@@ -19,15 +19,15 @@ This guide will assume that the player has carried over the Energy Sword and Roc
 
 From here, what you do will depend on your proficiency at the game and your strategy of choice. There are 3 options:
 
-#### *God Despawn*
+### *God Despawn*
 
 This trick only works on the MCC version of the game. To do this, simple continue to melee and/or jump while on the gondola. This is delaying a checkpoint that will cause the Phantom that flies in to disappear and will skip multiple spawns at the next tower. Once the Phantom has disappeared, you can stop meleeing or jumping. Stay on the gondola you are on right now and proceed to the tower.
 
-#### *Tower Swordfly*
+### *Tower Swordfly*
 
 Once on the gondola, don't melee or do anything. This will cause the Phantom to not disappear and the level to proceed normally. Once the gondolas cross, jump over to the other one and press the gondola's "Start" button. This will cause enemies to spawn on the other gondola. Kill them. Once they're dead, drones will spawn at the section you just came from. Snipe them midair as they fly towards you. The gondola will keep moving towards the tower. Line yourself up alongside the left side of the wall that holds the "Start" button, as seen [here.](https://youtu.be/KhKhvk9Dz4I?t=1805) Then, swordfly off of the left-side turret and you should fly right to the top of the tower.
 
-#### *Gondola Launch*
+### *Gondola Launch*
 
 **This trick is very different between H2C and H2A. This walkthrough will assume that the player is on H2A; for a detailed breakdown on H2C Gondola Launch, visit [this link](https://www.youtube.com/watch?v=p_r1YMyo28M).** To start, perform Early Gondola like normal. Keep meleeing while on the gondola and stay turned towards the enemies on the platform. From here you have two options. The first is to wait 25 seconds after the enemies on the platform appearing, then turning around towards the tower. This should despawn all of the enemies on the platform and spawn the Phantom but is unreliable. The second option is to kill enough enemies on the platform to force the Phantom to spawn. Whichever method you choose, the Phantom will spawn. Keep meleeing until the Phantom flies overhead, then stop. This should give you a checkpoint. Grenade jump or regular jump over to the other gondola and hit its "Start" button. Then, throw a grenade at the other gondola to spawn kill all of the drones (best visualized through a video). Then, use your beam rifle to shoot one of the two Elites that spawn. Leave the other alive. Line yourself up along the edge of the overhang just above the button so that your foot is halfway off of the little slope facing the back of the gondola. Wait until Miranda's dialogue line starts to play. As soon as you hear Cortana respond with "Understood, ma'am" kill the last Elite. If you've done everything correctly, you should launch right to the tower. This is best visualized through a [video example.](https://youtu.be/phu5WHsdNew?t=2092)
 
@@ -83,14 +83,14 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
 TBD
 
-#### Potential Strategies
+### Potential Strategies
 
 TBD
 
-#### Knowledge Base
+### Knowledge Base
 
 2-08

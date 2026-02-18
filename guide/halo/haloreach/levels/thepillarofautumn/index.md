@@ -17,7 +17,7 @@ For detailed information on the mission, visit the [Halopedia: Pillar of Autumn]
 
 ### Start:
 
-#### Easy:
+### Easy:
 
 - **Beginner:**
 
@@ -40,7 +40,7 @@ For detailed information on the mission, visit the [Halopedia: Pillar of Autumn]
 `   - `**`Video Tutorial:`**  
 `   {{#ev:youtube|Video_ID_easy_start_advanced}}`
 
-#### Legendary:
+### Legendary:
 
 - **Beginner:**
 
@@ -63,7 +63,7 @@ For detailed information on the mission, visit the [Halopedia: Pillar of Autumn]
 `   - `**`Video Tutorial:`**  
 `   {{#ev:youtube|Video_ID_easy_boiler_room_advanced}}`
 
-#### Legendary:
+### Legendary:
 
 - **Beginner:**
 
@@ -113,7 +113,7 @@ For detailed information on the mission, visit the [Halopedia: Pillar of Autumn]
 `   - `**`Video Tutorial:`**  
 `   {{#ev:youtube|Video_ID_easy_end_fight_advanced}}`
 
-#### Legendary:
+### Legendary:
 
 - **Beginner:**
 
@@ -172,15 +172,15 @@ Throughout the development of this level, several strategies have been discovere
 
 The following sections are dedicated to the exploration and documentation of potential strategies that may shape future runs.
 
-#### Historical Strategies
+### Historical Strategies
 
 - **Example 1** - Example 1
 
-#### Potential Strategies
+### Potential Strategies
 
 - **Example 1** - Example 1
 
-#### Knowledge Base
+### Knowledge Base
 
 - **Example 1** - Example 1
 

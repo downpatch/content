@@ -9,7 +9,7 @@ Mombasa Streets is the hub world in [Halo 3: ODST](../../index.md). See [Haloped
 
 The full rough path for Mombasa Streets on easy can be found in the link below. <https://www.youtube.com/watch?v=D26t2cFEdwo&feature=youtu.be>
 
-# Full Game Mombasa Streets Routing
+## Full Game Mombasa Streets Routing
 
 ## Easy Streets Carryover
 

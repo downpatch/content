@@ -91,19 +91,19 @@ Throughout the development of this level, there have been many strat discoveries
 
 - Who discovered the trick, date of discovery, and various notes
 
-#### Historical Strategies
+### Historical Strategies
 
 - N/A
 
-#### Potential Strategies
+### Potential Strategies
 
 - N/A
 
-#### Knowledge Base
+### Knowledge Base
 
 - N/A
 
-# Recommended Videos
+## Recommended Videos
 
 <youtube width="320" height="192">aw-sRfDC7S0</youtube> <youtube width="320" height="192">5GVxAAy3Ib4</youtube> <youtube width="320" height="192">QPKxj9G_v_A</youtube> <youtube width="320" height="192">\_Gs92gv7fa8</youtube>
 

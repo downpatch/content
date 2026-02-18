@@ -36,19 +36,19 @@ The indoor section preceding the first lakebed is on a timer, so as long as you 
 
 ### - Second lakebed
 
-#### Mounted pod strats
+### Mounted pod strats
 
-#### Rocket snipe strats
+### Rocket snipe strats
 
-#### Double phantom strats
+### Double phantom strats
 
 ### - Scarab fight/skip
 
-#### Scarab board
+### Scarab board
 
-#### Mongoose clip
+### Mongoose clip
 
-#### DC clip
+### DC clip
 
 ### - Factory
 
